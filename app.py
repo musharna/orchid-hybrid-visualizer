@@ -14,6 +14,7 @@ import json
 import os
 
 import gradio as gr
+from refs import species_name
 
 _GALLERY_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "gallery")
 
@@ -45,10 +46,11 @@ def detail_md(entry: dict) -> str:
         f"**Prompt used:** {entry['prompt']}",
     ]
     if entry.get("ref_url"):
-        lines += [
-            "",
-            f"[Reference photo of the real registered cross]({entry['ref_url']})",
-        ]
+        if entry.get("ref_kind") == "search":
+            label = f"🔍 Search real photos of {species_name(entry['display'])}"
+        else:
+            label = "Reference photo of the real registered cross"
+        lines += ["", f"[{label}]({entry['ref_url']})"]
     return "\n".join(lines)
 
 

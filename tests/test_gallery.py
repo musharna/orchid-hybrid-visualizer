@@ -7,6 +7,7 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 import app
+import refs
 
 
 def _write_fixture(tmp_path):
@@ -24,6 +25,7 @@ def _write_fixture(tmp_path):
                 "prompt": "a macro photograph of a Cattleya",
                 "image": "C_Test.jpg",
                 "ref_url": "http://example.com/ref.jpg",
+                "ref_kind": "photo",
             }
         ],
     }
@@ -52,6 +54,20 @@ def test_detail_md_includes_parents_prompt_and_ref(tmp_path):
     assert "dowiana 50% × bicolor 50%" in md
     assert "a macro photograph of a Cattleya" in md
     assert "http://example.com/ref.jpg" in md
+    # ref_kind="photo" -> direct-photo label
+    assert "Reference photo of the real registered cross" in md
+
+
+def test_detail_md_search_kind_uses_search_label(tmp_path):
+    entries = app.load_manifest(_write_fixture(tmp_path))
+    e = entries[0]
+    e["ref_kind"] = "search"
+    e["ref_url"] = "https://www.google.com/search?tbm=isch&q=Cattleya+Test+orchid"
+    md = app.detail_md(e)
+    assert "Search real photos of Cattleya Test" in md
+    assert e["ref_url"] in md
+    # search links must NOT claim to be a single curated photo
+    assert "Reference photo of the real registered cross" not in md
 
 
 def test_detail_md_omits_ref_link_when_absent(tmp_path):
@@ -59,6 +75,19 @@ def test_detail_md_omits_ref_link_when_absent(tmp_path):
     del entries[0]["ref_url"]
     md = app.detail_md(entries[0])
     assert "Reference photo" not in md
+    assert "Search real photos" not in md
+
+
+def test_search_url_builds_google_images_query():
+    url = refs.search_url("C. Hardyana")
+    assert url.startswith("https://www.google.com/search?tbm=isch")
+    assert "Cattleya" in url and "Hardyana" in url and "orchid" in url
+
+
+def test_species_name_expands_prefix():
+    assert (
+        refs.species_name("C. Mem. Albert Heinecke") == "Cattleya Mem. Albert Heinecke"
+    )
 
 
 def test_real_gallery_assets_complete():
@@ -75,3 +104,10 @@ def test_real_gallery_assets_complete():
         assert os.path.exists(e["image_path"]), f"missing image: {e['image']}"
         assert os.path.getsize(e["image_path"]) > 2000, f"trivial image: {e['image']}"
         assert e["prompt"], f"empty prompt for {e['stem']}"
+        # every cross has a usable reference link: a direct photo or a stable search link
+        assert e.get("ref_url"), f"no ref_url for {e['stem']}"
+        assert e.get("ref_kind") in ("photo", "search"), f"bad ref_kind for {e['stem']}"
+        if e["ref_kind"] == "search":
+            assert e["ref_url"].startswith("https://www.google.com/search?tbm=isch"), (
+                f"search ref_url not a google-images link: {e['stem']}"
+            )

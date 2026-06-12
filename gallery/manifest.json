@@ -15,7 +15,8 @@
       "parents": "dowiana 50% \u00d7 warscewiczii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya dowiana and Cattleya warscewiczii. photograph of a large cattleya orchid plant in flower, large ruffled deep red-magenta with radiating lip, magenta-purple broad, ruffled petals, deep magenta-burgundy markings",
       "image": "C_Hardyana.jpg",
-      "ref_url": "https://cdn11.bigcommerce.com/s-ookf1bkiza/images/stencil/608w/products/22705/26380/chardy4b__99079.1752772362.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Hardyana%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Brabantiae",
@@ -27,7 +28,8 @@
       "parents": "aclandiae 50% \u00d7 loddigesii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya aclandiae and Cattleya loddigesii. photograph of a medium cattleya orchid plant in flower, large ruffled magenta-pink with darker veining lip, (yellow:1.3) broad, rounded petals, yellow with burgundy spotting markings",
       "image": "C_Brabantiae.jpg",
-      "ref_url": "https://www.orchids.org/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2hBQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f1a1ee67aeb9046c170cf7e4b50eacc2a5b9e4fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lNTVRBd2VERXdNQVk2QmtWVSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a9526fc72018ec9f872badfc17d9b9f850bf1b7b/Cattleya%20Brabantiae%20'El%20Toro'%20AM%20AOS%202025f%2001.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Brabantiae%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Interglossa",
@@ -39,7 +41,8 @@
       "parents": "amethystoglossa 50% \u00d7 intermedia 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya amethystoglossa and Cattleya intermedia. photograph of a medium cattleya orchid plant in flower, large ruffled deep magenta to fuchsia-purple lip, lavender broad rounded petals, spotted with amethyst-purple markings pattern",
       "image": "C_Interglossa.jpg",
-      "ref_url": "https://www.orchidroots.com/static/utils/images/hybrid/hyb_000348984_100072348.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Interglossa%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Empress_Frederick",
@@ -51,7 +54,8 @@
       "parents": "dowiana_aurea 50% \u00d7 mossiae 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya dowiana aurea and Cattleya mossiae. photograph of a large cattleya orchid plant in flower, large ruffled crimson with gold veining lip, (pink-yellow:1.3) broad, rounded petals",
       "image": "C_Empress_Frederick.jpg",
-      "ref_url": "https://www.orchidroots.com/static/utils/images/hybrid/hyb_000433633_100037810.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Empress%20Frederick%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_guatemalensis",
@@ -63,7 +67,8 @@
       "parents": "aurantiaca 50% \u00d7 skinneri 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya aurantiaca and Cattleya skinneri. photograph of a small-medium cattleya orchid plant in flower, small orange-red lip, (rose-pink-orange:1.3) compact, rounded petals",
       "image": "C_guatemalensis.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/177619.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/177619.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Canhamiana",
@@ -75,7 +80,8 @@
       "parents": "purpurata 50% \u00d7 mossiae 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya purpurata and Cattleya mossiae. photograph of a large cattleya orchid plant in flower, large ruffled deep purple to burgundy lip, pink broad, elongated petals, white markings",
       "image": "C_Canhamiana.jpg",
-      "ref_url": "https://www.laforestaorchids.com/cdn/shop/products/cattleya-mossiae-x-cattleya-purpurata-cattleya-la-foresta-orchids-681149.jpg?v=1725538778"
+      "ref_url": "https://www.laforestaorchids.com/cdn/shop/products/cattleya-mossiae-x-cattleya-purpurata-cattleya-la-foresta-orchids-681149.jpg?v=1725538778",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Iris",
@@ -87,7 +93,8 @@
       "parents": "bicolor 50% \u00d7 dowiana 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya bicolor and Cattleya dowiana. photograph of a medium-large cattleya orchid plant in flower, large ruffled deep red-magenta with radiating lip, olive-green rounded petals, deep magenta-burgundy markings",
       "image": "C_Iris.jpg",
-      "ref_url": "https://cdn4.volusion.store/hyokq-tvfom/v/vspfiles/photos/MC1Iris-2.jpg?v-cache=1765460947"
+      "ref_url": "https://cdn4.volusion.store/hyokq-tvfom/v/vspfiles/photos/MC1Iris-2.jpg?v-cache=1765460947",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Pittiae",
@@ -99,7 +106,8 @@
       "parents": "harrisoniana 50% \u00d7 schilleriana 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya harrisoniana and Cattleya schilleriana. photograph of a medium-large cattleya orchid plant in flower, small deep rose-purple with white lip, (red:1.3) moderate width, slightly undulate petals, pink and white markings",
       "image": "C_Pittiae.jpg",
-      "ref_url": "https://www.orchidroots.com/static/utils/images/hybrid/hyb_000070045_000002524.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Pittiae%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Leda",
@@ -111,7 +119,8 @@
       "parents": "dowiana 50% \u00d7 percivaliana 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya dowiana and Cattleya percivaliana. photograph of a medium-large cattleya orchid plant in flower, small deep red-magenta with radiating lip, (crimson-orange:1.3) elongated and ruffled petals, deep magenta-burgundy and darker rose markings",
       "image": "C_Leda.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/108546.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/108546.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Landate",
@@ -123,7 +132,8 @@
       "parents": "aclandiae 50% \u00d7 guttata 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya aclandiae and Cattleya guttata. photograph of a small-medium cattleya orchid plant in flower, small magenta-pink with darker veining lip, (burgundy-yellow:1.3) broad, rounded petals, spotted pattern, yellow with burgundy spotting markings",
       "image": "C_Landate.jpg",
-      "ref_url": "https://www.orchidroots.com/static/utils/images/hybrid/mcxaiDqYfwaxrmQ3QoRR8v_IMG_7485.jpeg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Landate%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Wendlandiana",
@@ -135,7 +145,8 @@
       "parents": "bowringiana 50% \u00d7 warscewiczii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya bowringiana and Cattleya warscewiczii. photograph of a large cattleya orchid plant in flower, large ruffled magenta with darker markings lip, magenta-purple broad, ruffled petals",
       "image": "C_Wendlandiana.jpg",
-      "ref_url": null
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Wendlandiana%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Dupreana",
@@ -147,7 +158,8 @@
       "parents": "warneri 50% \u00d7 warscewiczii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya warneri and Cattleya warscewiczii. photograph of a large cattleya orchid plant in flower, large ruffled deep magenta-purple with yellow lip, magenta-purple broad, ruffled petals, pale lavender markings",
       "image": "C_Dupreana.jpg",
-      "ref_url": "https://cdn11.bigcommerce.com/s-ookf1bkiza/images/stencil/608w/products/22753/26457/cattdupreanacoeruleam__19926.1752772370.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Dupreana%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Dolosa",
@@ -159,7 +171,8 @@
       "parents": "loddigesii 50% \u00d7 walkeriana 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya loddigesii and Cattleya walkeriana. photograph of a medium cattleya orchid plant in flower, large ruffled yellow and white lip, rose-pink elongated rounded petals",
       "image": "C_Dolosa.jpg",
-      "ref_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBoe7mVE5EselZYuDkV6OJ5QJTemZK2_S7FIruLf6ZUdyB_eTOzQ8Stg0o7dL_rSujd63eMwYPU7YOs4iEOA9gzOELSmMTZyMLseyUN9Gi-kt_L-o0ZPxvr9QR0mvlMYDxo3drEkcLtAI/s1600/Orqu%25C3%25ADdea-Cattleya-Dolosa.jpg"
+      "ref_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBoe7mVE5EselZYuDkV6OJ5QJTemZK2_S7FIruLf6ZUdyB_eTOzQ8Stg0o7dL_rSujd63eMwYPU7YOs4iEOA9gzOELSmMTZyMLseyUN9Gi-kt_L-o0ZPxvr9QR0mvlMYDxo3drEkcLtAI/s1600/Orqu%25C3%25ADdea-Cattleya-Dolosa.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Claesiana",
@@ -171,7 +184,8 @@
       "parents": "intermedia 50% \u00d7 loddigesii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya intermedia and Cattleya loddigesii. photograph of a medium-large cattleya orchid plant in flower, large ruffled deep magenta-purple with darker lip, lavender rounded petals",
       "image": "C_Claesiana.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/146683.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/146683.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Browniae",
@@ -183,7 +197,8 @@
       "parents": "bowringiana 50% \u00d7 harrisoniana 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya bowringiana and Cattleya harrisoniana. photograph of a small-medium cattleya orchid plant in flower, small magenta with darker markings lip, magenta rounded petals, pink markings",
       "image": "C_Browniae.jpg",
-      "ref_url": null
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Browniae%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Quinquecolor",
@@ -195,7 +210,8 @@
       "parents": "aclandiae 50% \u00d7 forbesii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya aclandiae and Cattleya forbesii. photograph of a small-medium cattleya orchid plant in flower, large ruffled magenta-pink with darker veining lip, (yellow:1.3) broad, rounded petals, spotted pattern, yellow with burgundy spotting markings",
       "image": "C_Quinquecolor.jpg",
-      "ref_url": "https://www.sborchid.com/orchidphotos/Cattleya/c_quinquecolor__4w.jpg"
+      "ref_url": "https://www.sborchid.com/orchidphotos/Cattleya/c_quinquecolor__4w.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Chocolate_Drop",
@@ -207,7 +223,8 @@
       "parents": "guttata 50% \u00d7 aurantiaca 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya guttata and Cattleya aurantiaca. photograph of a small-medium cattleya orchid plant in flower, small magenta-pink with white accents lip, (burgundy-orange:1.3) narrow, elongated petals",
       "image": "C_Chocolate_Drop.jpg",
-      "ref_url": "https://www.orchidroots.com/static/utils/images/hybrid/BKmPgMRMXgQx2E8AywZrHQ_Cattlianthe_Chocolate_Drop.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Chocolate%20Drop%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Triumphans",
@@ -219,7 +236,8 @@
       "parents": "dowiana 50% \u00d7 rex 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya dowiana and Cattleya rex. photograph of a large cattleya orchid plant in flower, large ruffled deep red-magenta with radiating lip, cream elongated and ruffled petals, deep magenta-burgundy markings",
       "image": "C_Triumphans.jpg",
-      "ref_url": "https://cdn.imagearchive.com/slippertalk/data/attachments/32/32920-935f1323004977fa31f5728699a1dbba.jpg"
+      "ref_url": "https://cdn.imagearchive.com/slippertalk/data/attachments/32/32920-935f1323004977fa31f5728699a1dbba.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Venus",
@@ -231,7 +249,8 @@
       "parents": "dowiana 75% \u00d7 bicolor 25%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya dowiana and Cattleya bicolor. photograph of a medium-large cattleya orchid plant in flower, large ruffled deep red-magenta with radiating lip, olive-green elongated and ruffled petals, deep magenta-burgundy markings",
       "image": "C_Venus.jpg",
-      "ref_url": null
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Venus%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Whitei",
@@ -243,7 +262,8 @@
       "parents": "schilleriana 50% \u00d7 warneri 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya schilleriana and Cattleya warneri. photograph of a large cattleya orchid plant in flower, large ruffled deep magenta-purple with white lip, (deep red with pale yellow tones:1.3) rounded petals, white and pale lavender markings",
       "image": "C_Whitei.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/131022.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/131022.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Measuresiana",
@@ -255,7 +275,8 @@
       "parents": "aclandiae 50% \u00d7 walkeriana 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya aclandiae and Cattleya walkeriana. photograph of a small cattleya orchid plant in flower, large ruffled magenta-pink with darker veining lip, (pale rose-pink with yellow tones:1.3) broad, rounded petals, yellow with burgundy spotting markings",
       "image": "C_Measuresiana.jpg",
-      "ref_url": "https://www.krullsmith.com/images/product/large/385_1_.jpg"
+      "ref_url": "https://www.krullsmith.com/images/product/large/385_1_.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Elegans",
@@ -267,7 +288,8 @@
       "parents": "tigrina 50% \u00d7 purpurata 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya tigrina and Cattleya purpurata. photograph of a medium-large cattleya orchid plant in flower, large ruffled deep purple to burgundy lip, lavender with pale yellow tones narrow petals, dark brown-purple and white markings",
       "image": "C_Elegans.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/133806.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/133806.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Peetersii",
@@ -280,7 +302,8 @@
       "parents": "lawrenceana 50% \u00d7 warscewiczii 25% \u00d7 purpurata 25%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya lawrenceana, Cattleya warscewiczii and Cattleya purpurata. photograph of a large cattleya orchid plant in flower, large ruffled deep purple to burgundy lip, magenta-purple broad, ruffled petals, intense purple and white markings",
       "image": "C_Peetersii.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/56219.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/56219.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Minucia",
@@ -292,7 +315,8 @@
       "parents": "loddigesii 50% \u00d7 warscewiczii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya loddigesii and Cattleya warscewiczii. photograph of a large cattleya orchid plant in flower, large ruffled yellow and white lip, magenta-purple broad, ruffled petals",
       "image": "C_Minucia.jpg",
-      "ref_url": null
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Minucia%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Brymeriana",
@@ -304,7 +328,8 @@
       "parents": "violacea 50% \u00d7 wallisii 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya violacea and Cattleya wallisii. photograph of a medium-large cattleya orchid plant in flower, large ruffled deep magenta with contrasting lip, deep magenta rounded petals, white markings",
       "image": "C_Brymeriana.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/52093.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/52093.jpg",
+      "ref_kind": "photo"
     },
     {
       "stem": "C_Portia",
@@ -316,7 +341,8 @@
       "parents": "bowringiana 50% \u00d7 labiata 50%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya bowringiana and Cattleya labiata. photograph of a large cattleya orchid plant in flower, small magenta with darker markings lip, lavender broad, rounded petals",
       "image": "C_Portia.jpg",
-      "ref_url": "https://cdn11.bigcommerce.com/s-ookf1bkiza/images/stencil/608w/products/23242/27313/cportap4b__53407.1752772443.jpg"
+      "ref_url": "https://www.google.com/search?tbm=isch&q=Cattleya%20Portia%20orchid",
+      "ref_kind": "search"
     },
     {
       "stem": "C_Mem_Albert_Heinecke",
@@ -330,7 +356,8 @@
       "parents": "dowiana 69% \u00d7 bicolor 16% \u00d7 tenebrosa 13% \u00d7 warscewiczii 3%",
       "prompt": "cattleya hybrid orchid, cross of Cattleya dowiana, Cattleya bicolor, Cattleya tenebrosa and Cattleya warscewiczii. photograph of a large cattleya orchid plant in flower, large ruffled deep red-magenta with radiating lip, pale olive-green elongated and ruffled petals, deep magenta-burgundy markings",
       "image": "C_Mem_Albert_Heinecke.jpg",
-      "ref_url": "https://s3.amazonaws.com/iof-grexes3/56357.jpg"
+      "ref_url": "https://s3.amazonaws.com/iof-grexes3/56357.jpg",
+      "ref_kind": "photo"
     }
   ]
 }

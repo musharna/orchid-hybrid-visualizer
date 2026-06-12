@@ -73,6 +73,13 @@ def main():
         )
         fname = f"{stem}.jpg"
         imgs[0].convert("RGB").save(os.path.join(args.out, fname), "JPEG", quality=92)
+        # A verified-live direct photo -> "photo"; otherwise a stable Google Images search
+        # link so every cross has a working reference (see refs.py for why).
+        if ref_url:
+            ref_kind = "photo"
+        else:
+            ref_url = search_url(display)
+            ref_kind = "search"
         manifest.append(
             {
                 "stem": stem,
@@ -82,6 +89,7 @@ def main():
                 "prompt": prompt,
                 "image": fname,
                 "ref_url": ref_url,
+                "ref_kind": ref_kind,
             }
         )
         print(f"[render] {i:2d}/27 {display}  ->  {fname}", flush=True)
