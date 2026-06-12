@@ -1,0 +1,55 @@
+{
+    "_doc": "Dominance rules from AOS hereditary literature. Types: dominant (shows at any %), recessive (needs >=80% or both parents), modifier (transforms blended result).",
+    "Cattleya coccinea": {
+        "color.saturation": {"type": "dominant", "value": "high"},
+        "color.pigments.carotenoid.intensity": {"type": "dominant", "value": "high"},
+        "color.pigments.anthocyanin.intensity": {"type": "dominant", "value": "high"},
+        "size": {"type": "dominant", "value": "small"},
+        "form.flatness": {"type": "dominant", "value": "flat"},
+        "form.lip_shape": {"type": "dominant", "value": "small, compact"}
+    },
+    "Cattleya dowiana": {
+        "color.lip": {"type": "dominant"},
+        "color.primary": {"type": "recessive"},
+        "color.modifier": {"type": "modifier", "effect": "intensifies_lavender", "description": "enriches lavender and pink tones toward rich purple"}
+    },
+    "Cattleya dowiana aurea": {
+        "color.lip": {"type": "dominant"},
+        "color.primary": {"type": "recessive"},
+        "color.modifier": {"type": "modifier", "effect": "intensifies_lavender", "description": "enriches lavender and pink tones toward rich purple"}
+    },
+    "Cattleya warscewiczii": {
+        "color.primary": {"type": "dominant", "value": "magenta-purple"},
+        "size": {"type": "dominant", "value": "large"},
+        "form.petal_shape": {"type": "dominant", "value": "broad, ruffled"},
+        "form.lip_shape": {"type": "dominant", "value": "large, deeply fringed"}
+    },
+    "Cattleya aclandiae": {
+        "color.distribution": {"type": "recessive", "value": "spotted"}
+    },
+    "Cattleya labiata": {
+        "color.primary": {"type": "dominant", "value": "lavender"},
+        "form.petal_shape": {"type": "dominant"},
+        "size": {"type": "dominant", "value": "large"},
+        "substance": {"type": "dominant", "value": "heavy"}
+    },
+    "Cattleya cinnabarina": {
+        "color.primary": {"type": "dominant", "value": "orange"},
+        "color.pigments.carotenoid.intensity": {"type": "dominant", "value": "high"},
+        "color.pigments.carotenoid.hue": {"type": "dominant", "value": "orange"},
+        "form.lip_shape": {"type": "dominant", "value": "small, tubular"}
+    },
+    "Cattleya purpurata": {
+        "color.lip": {"type": "dominant"},
+        "form.lip_shape": {"type": "dominant"}
+    },
+    "Cattleya schilleriana": {
+        "color.distribution": {"type": "recessive", "value": "spotted"}
+    },
+    "Cattleya guttata": {
+        "color.distribution": {"type": "recessive", "value": "spotted"}
+    },
+    "Cattleya amethystoglossa": {
+        "color.distribution": {"type": "semi_dominant", "value": "spotted with amethyst-purple markings", "threshold": 30}
+    }
+}

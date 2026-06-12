@@ -1,0 +1,37 @@
+name: Publish to Hugging Face Space
+
+# Secret-less deploy via HF Trusted Publishers (OIDC). No HF_TOKEN secret stored.
+# Requires a Trusted Publisher configured on the Space settings with:
+#   provider=GitHub Actions, repository=musharna/orchid-hybrid-visualizer,
+#   branch=main, workflow=publish.yml
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write   # required so the job can request an OIDC token
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install the hf CLI
+        run: |
+          curl -LsSf https://hf.co/cli/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Publish to the Space
+        env:
+          HF_OIDC_RESOURCE: spaces/mjarnold/orchid-hybrid-visualizer
+        run: |
+          hf upload mjarnold/orchid-hybrid-visualizer . . \
+            --repo-type=space \
+            --exclude ".github/*" \
+            --exclude ".git/*" \
+            --exclude "tests/*" \
+            --exclude "render_gallery.py" \
+            --commit-message "Deploy from ${GITHUB_SHA::7}"

@@ -1,0 +1,4958 @@
+{
+  "Cattleya aclandiae": {
+    "color": {
+      "primary": "olive-green to yellow-green with dark chocolate-brown spots",
+      "secondary": "yellow with burgundy spotting",
+      "lip": "magenta-pink with darker veining and yellow center",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large, ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya acuensis": {
+    "color": {
+      "primary": "red-orange",
+      "secondary": null,
+      "lip": "yellow with orange striping and darker markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large, ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya adelinae": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": null,
+      "lip": "cream with yellow center and orange-red markings",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated pointed",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya alagoensis": {
+    "color": {
+      "primary": "red-orange to bright red-pink",
+      "secondary": null,
+      "lip": "yellow with red or magenta markings and spotted pattern",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "pointed to rounded",
+      "symmetry": "good",
+      "lip_shape": "large with prominent curved center",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya alaorii": {
+    "color": {
+      "primary": "pale lavender",
+      "secondary": null,
+      "lip": "white with golden-brown markings",
+      "saturation": "low",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "lavender",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad rounded",
+      "symmetry": "excellent",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya alvarenguensis": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": null,
+      "lip": "white to pale lavender with darker pink or brownish markings",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow to elongated",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya alvaroana": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "yellow with orange-red spots and darker markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "textured, multi-lobed",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya amethystoglossa": {
+    "color": {
+      "primary": "pale pink to white",
+      "secondary": null,
+      "lip": "deep magenta to fuchsia-purple with yellow center and darker markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad rounded with some elongated variants",
+      "symmetry": "good",
+      "lip_shape": "large ruffled and frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya angereri": {
+    "color": {
+      "primary": "red-orange",
+      "secondary": null,
+      "lip": "yellow and red patterned with spotting",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, pointed, elongated",
+      "symmetry": "good",
+      "lip_shape": "large with patterned center",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya araguaiensis": {
+    "color": {
+      "primary": "white to pale cream",
+      "secondary": "golden-yellow to tan-orange",
+      "lip": "white and pink with red to crimson markings and striping",
+      "saturation": "medium",
+      "distribution": "mottled",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "cream",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "mottled",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya aromatica": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "yellow with darker central marking",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, pointed, elongated",
+      "symmetry": "good",
+      "lip_shape": "large with detailed central pattern",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya bicalhoi": {
+    "color": {
+      "primary": "white to pale lavender-pink",
+      "secondary": "magenta-pink",
+      "lip": "deep purple to burgundy with yellow center and white markings",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad and rounded with curved edges",
+      "symmetry": "good",
+      "lip_shape": "large with prominent ridged patterns and striations",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya bicolor": {
+    "color": {
+      "primary": "olive-green to bronze-brown",
+      "secondary": null,
+      "lip": "vibrant magenta-purple with darker markings",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "olive-green",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya blumenscheinii": {
+    "color": {
+      "primary": "pale yellow to yellow-green",
+      "secondary": null,
+      "lip": "darker yellow with pink, mauve, or reddish-brown markings",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya bradei": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with burgundy and orange-toned markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and narrow",
+      "symmetry": "good",
+      "lip_shape": "large and ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya briegeri": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": "coral-pink",
+      "lip": "yellow with dark center pattern",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and pointed",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive pattern",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya caulescens": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": "white",
+      "lip": "deep magenta-purple with distinctive darker markings and patterns",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow to elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "large with intricate patterning",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya cernua": {
+    "color": {
+      "primary": "orange-red",
+      "secondary": null,
+      "lip": "yellow with magenta-pink and red patterns",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large with central callus",
+      "flatness": "moderately flat"
+    },
+    "size": "miniature",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya cinnabarina": {
+    "color": {
+      "primary": "vibrant orange",
+      "secondary": null,
+      "lip": "darker red with intricate markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "large with patterned markings",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya coccinea": {
+    "color": {
+      "primary": "bright red-orange",
+      "secondary": null,
+      "lip": "bright red-orange with ruffled edges",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large and ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya colnagoi": {
+    "color": {
+      "primary": "orange-red",
+      "secondary": null,
+      "lip": "yellow with dark red markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled, distinctively patterned",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya crispa": {
+    "color": {
+      "primary": "white",
+      "secondary": null,
+      "lip": "deep purple-magenta with yellow center and striped pattern",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and broad",
+      "symmetry": "good",
+      "lip_shape": "large and frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya crispata": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "yellow with darker yellow or orange patterning",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled and distinctively patterned",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya cruziana": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with subtle markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya dichroma": {
+    "color": {
+      "primary": "bright orange-red",
+      "secondary": null,
+      "lip": "yellow with markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya dormaniana": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": "white",
+      "lip": "deep magenta-fuchsia with white markings and striping",
+      "saturation": "high",
+      "distribution": "mottled",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "mottled",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and narrow",
+      "symmetry": "good",
+      "lip_shape": "large and rounded",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya dowiana": {
+    "color": {
+      "primary": "cream to pale yellow",
+      "secondary": "deep magenta-burgundy",
+      "lip": "deep red-magenta with radiating gold and burgundy striped veining patterns",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and ruffled",
+      "symmetry": "good",
+      "lip_shape": "large frilled with distinctive ridging",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya elongata": {
+    "color": {
+      "primary": "deep magenta-purple",
+      "secondary": null,
+      "lip": "deep magenta-purple with darker striations and veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and upright",
+      "symmetry": "good",
+      "lip_shape": "prominent rounded with fringing",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya endsfeldzii": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with central pattern and markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled with distinctive pattern",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya esalqueana": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with red markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated with pointed tips",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive marking pattern",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya flavasulina": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with greenish-yellow hue and central markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and elongated",
+      "symmetry": "good",
+      "lip_shape": "ruffled and distinctive",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya forbesii": {
+    "color": {
+      "primary": "pale yellow",
+      "secondary": null,
+      "lip": "white with golden-yellow center and dark markings",
+      "saturation": "low",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya fournieri": {
+    "color": {
+      "primary": "white to pale pink",
+      "secondary": null,
+      "lip": "pale yellow center",
+      "saturation": "low",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated",
+      "symmetry": "good",
+      "lip_shape": "large, trumpet",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya gaskelliana": {
+    "color": {
+      "primary": "white to pale lavender-white",
+      "secondary": null,
+      "lip": "magenta-purple to deep purple with yellow center and darker striations",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "lavender",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "excellent",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya ghillanyi": {
+    "color": {
+      "primary": "magenta-purple",
+      "secondary": null,
+      "lip": "white to pale center with darker magenta-purple markings and contrasting pattern",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated oval to pointed",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive patterning",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya gloedeniana": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "yellow with reddish-orange to reddish-pink markings in center",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "excellent",
+      "lip_shape": "large, ruffled, layered",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya grandis": {
+    "color": {
+      "primary": "white",
+      "secondary": "pale yellow",
+      "lip": "magenta-purple with yellow and purple markings, spotted or striped patterns",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded, slightly ruffled",
+      "symmetry": "good",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya granulosa": {
+    "color": {
+      "primary": "brown",
+      "secondary": "yellow-green",
+      "lip": "magenta-pink with white markings and darker spots",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "brown",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive patterning",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya guanhanensis": {
+    "color": {
+      "primary": "orange",
+      "secondary": null,
+      "lip": "red-toned",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya guttata": {
+    "color": {
+      "primary": "green-brown with deep burgundy-red spotting",
+      "secondary": null,
+      "lip": "magenta-pink with white accents",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "burgundy",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "small, three-lobed",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya haroldoi": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "magenta with yellow center",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow pointed",
+      "symmetry": "good",
+      "lip_shape": "large trumpet",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya harpophylla": {
+    "color": {
+      "primary": "orange",
+      "secondary": null,
+      "lip": "white with yellow center and purple or orange markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive markings",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya harrisoniana": {
+    "color": {
+      "primary": "rose-pink",
+      "secondary": "pink",
+      "lip": "deep rose-purple with white throat and yellow deep in tube",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "rose",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "moderate width, slightly undulate",
+      "symmetry": "good",
+      "lip_shape": "tubular, constricted midlobe",
+      "flatness": "slightly cupped"
+    },
+    "size": "medium",
+    "substance": "moderate",
+    "texture": "smooth",
+    "source": "curated"
+  },
+  "Cattleya hispidula": {
+    "color": {
+      "primary": "pink",
+      "secondary": "purple",
+      "lip": "white and yellow with magenta markings",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya hoehnei": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with intricate patterns and markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated",
+      "symmetry": "good",
+      "lip_shape": "ruffled, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya intermedia": {
+    "color": {
+      "primary": "lavender-purple",
+      "secondary": null,
+      "lip": "deep magenta-purple with darker veining and subtle striping",
+      "saturation": "medium",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "lavender",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "blue-lavender",
+          "lip": "deep blue-purple",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "medium"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "aquinii": {
+          "primary": "white with purple splash on petals",
+          "lip": "deep magenta-purple",
+          "saturation": "high",
+          "distribution": "patterned",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "purple",
+              "intensity": "high"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "patterned",
+              "contrast": "high"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded to elongated",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya iricolor": {
+    "color": {
+      "primary": "white to cream",
+      "secondary": null,
+      "lip": "white with yellow, purple, red and pink markings and patterns",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "cream",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and elongated",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive markings",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya itambana": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with distinctive patterning and striping",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya jenmanii": {
+    "color": {
+      "primary": "white",
+      "secondary": null,
+      "lip": "magenta-purple to yellow with white edging and radiating veins",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded, elongated",
+      "symmetry": "excellent",
+      "lip_shape": "large, ruffled, trumpet-like",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya jongheana": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": null,
+      "lip": "white and yellow with magenta or purple markings",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled margins",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya kautskyana": {
+    "color": {
+      "primary": "bright orange to orange-red",
+      "secondary": null,
+      "lip": "reddish with ruffled pattern",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled and drooping",
+      "flatness": "reflexed"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya kerrii": {
+    "color": {
+      "primary": "magenta-pink to lavender-purple",
+      "secondary": null,
+      "lip": "white and pale yellow with purple or pink markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated to broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large with patterned center",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya kettieana": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "darker pink to purple with yellow and red markings",
+      "saturation": "high",
+      "distribution": "mottled",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "mottled",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and pointed",
+      "symmetry": "good",
+      "lip_shape": "large and ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya kleberi": {
+    "color": {
+      "primary": "pale yellow",
+      "secondary": "pink",
+      "lip": "bright yellow with darker central markings",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya labiata": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": null,
+      "lip": "dark crimson to purple with intricate pattern markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with yellow throat",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "blue-lavender",
+          "lip": "indigo with purple veining",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "medium"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "semi-alba": {
+          "primary": "white",
+          "lip": "deep magenta with yellow throat",
+          "saturation": "high",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya lawrenceana": {
+    "color": {
+      "primary": "deep purple-rose",
+      "secondary": "intense purple",
+      "lip": "deep purple with darker veining and small yellow-white marking",
+      "saturation": "very high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "purple",
+          "intensity": "very_high"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": "blue-violet",
+          "intensity": "medium"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "moderate width, slightly reflexed tips",
+      "symmetry": "good",
+      "lip_shape": "tubular, only moderately flared",
+      "flatness": "slightly cupped"
+    },
+    "size": "small",
+    "substance": "moderate",
+    "texture": "smooth",
+    "source": "curated"
+  },
+  "Cattleya liliputana": {
+    "color": {
+      "primary": "magenta-pink to lavender-purple",
+      "secondary": null,
+      "lip": "yellow to yellow-orange center with darker striping or patterns",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow to elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "large with contrasting center",
+      "flatness": "moderately flat"
+    },
+    "size": "miniature",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya lobata": {
+    "color": {
+      "primary": "magenta-purple",
+      "secondary": "lavender",
+      "lip": "deep magenta with purple veining and darker markings",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated, curved, slightly recurved",
+      "symmetry": "good",
+      "lip_shape": "ruffled, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya locatellii": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "golden-yellow with darker yellow or purple markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and narrow",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya loddigesii": {
+    "color": {
+      "primary": "pale lilac-pink",
+      "secondary": null,
+      "lip": "yellow and white with darker purple patterns",
+      "saturation": "low",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with pale yellow",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated rounded",
+      "symmetry": "good",
+      "lip_shape": "large trumpet",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya longipes": {
+    "color": {
+      "primary": "magenta to deep pink",
+      "secondary": null,
+      "lip": "yellow-orange with red or orange accents and white striping",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya lourdesiana": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with distinctive pattern",
+      "saturation": "high",
+      "distribution": "patterned",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "patterned",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and pointed",
+      "symmetry": "good",
+      "lip_shape": "large with pronounced pattern",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya lueddemanniana": {
+    "color": {
+      "primary": "white to lavender-pink",
+      "secondary": "magenta-pink",
+      "lip": "deep magenta with yellow center and purple veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya luetzelburgii": {
+    "color": {
+      "primary": "bright orange to golden-yellow",
+      "secondary": null,
+      "lip": "darker orange with pale central marking and subtle striations",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and narrow",
+      "symmetry": "good",
+      "lip_shape": "large with darker toning",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya lundii": {
+    "color": {
+      "primary": "white",
+      "secondary": null,
+      "lip": "magenta-pink with darker striations and spotting",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and elongated",
+      "symmetry": "good",
+      "lip_shape": "large with intricate central patterning",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya luteola": {
+    "color": {
+      "primary": "yellow to pale yellow-green",
+      "secondary": null,
+      "lip": "white to cream with burgundy, brown, or orange-brown markings and patterns",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and elongated",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive patterning",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya mantiqueirae": {
+    "color": {
+      "primary": "red-orange",
+      "secondary": null,
+      "lip": "yellow-orange with red markings and striping",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad and rounded",
+      "symmetry": "good",
+      "lip_shape": "large and ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya marcaliana": {
+    "color": {
+      "primary": "vibrant orange",
+      "secondary": null,
+      "lip": "orange with dark striping or darker central region",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, pointed, elongated",
+      "symmetry": "excellent",
+      "lip_shape": "large, curved",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya maxima": {
+    "color": {
+      "primary": "magenta-purple to lavender-purple",
+      "secondary": null,
+      "lip": "white to pale yellow with purple veining, striations, and magenta spotting",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with yellow throat",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "blue-lavender",
+          "lip": "deep blue-purple with darker veining",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "medium"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "veined",
+              "contrast": "medium"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and curved",
+      "symmetry": "good",
+      "lip_shape": "large and ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya mendelii": {
+    "color": {
+      "primary": "white",
+      "secondary": null,
+      "lip": "magenta-purple and yellow with dark central markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "excellent",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya milleri": {
+    "color": {
+      "primary": "red-orange",
+      "secondary": null,
+      "lip": "yellow-orange with red markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow to elongated",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya mirandae": {
+    "color": {
+      "primary": "magenta-orange",
+      "secondary": "white",
+      "lip": "white to orange with purple or brown spotting and veining",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated narrow to rounded",
+      "symmetry": "good",
+      "lip_shape": "ruffled frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya mooreana": {
+    "color": {
+      "primary": "yellow",
+      "secondary": "cream",
+      "lip": "cream to pale yellow with red-pink to burgundy striping and spotting",
+      "saturation": "medium",
+      "distribution": "striped",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "striped",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated to rounded",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled margins",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya mossiae": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": null,
+      "lip": "magenta with yellow and orange center markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with yellow throat",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "blue-lavender",
+          "lip": "deep blue-purple with yellow throat",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "medium"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "excellent",
+      "lip_shape": "large, ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya munchowiana": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": null,
+      "lip": "deep magenta-purple with white striations and markings",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, slightly pointed",
+      "symmetry": "good",
+      "lip_shape": "frilled, ruffled",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya neocardimii": {
+    "color": {
+      "primary": "pale yellow",
+      "secondary": null,
+      "lip": "golden-yellow with darker markings",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and elongated",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya neokautskyi": {
+    "color": {
+      "primary": "orange-yellow",
+      "secondary": null,
+      "lip": "reddish-brown to darker orange with striations and textured markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled with wavy edges and threadlike appendages",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya nevesiana": {
+    "color": {
+      "primary": "yellow",
+      "secondary": null,
+      "lip": "golden-yellow with subtle striping",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya nobilior": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "yellow-marked with darker purple streaking and patterning",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded to elongated",
+      "symmetry": "good",
+      "lip_shape": "large, distinctive with patterned markings",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya pabstii": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "deep purple-magenta with distinctive darker markings and patterns",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and narrow",
+      "symmetry": "good",
+      "lip_shape": "large with central marking",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya percivaliana": {
+    "color": {
+      "primary": "rose-lavender",
+      "secondary": "darker rose",
+      "lip": "deep magenta-crimson with orange-gold throat patch",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "crimson",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": "violet",
+          "intensity": "low"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, slightly ruffled",
+      "symmetry": "good",
+      "lip_shape": "tubular to moderately open, frilled edges",
+      "flatness": "slightly cupped"
+    },
+    "size": "medium",
+    "substance": "heavy",
+    "texture": "smooth, slightly crystalline",
+    "source": "curated"
+  },
+  "Cattleya perrinii": {
+    "color": {
+      "primary": "white to pale lavender-pink",
+      "secondary": null,
+      "lip": "deep magenta to burgundy-red with yellow-green center",
+      "saturation": "medium",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and narrow",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled texture",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya pfisteri": {
+    "color": {
+      "primary": "vibrant magenta",
+      "secondary": null,
+      "lip": "darker purple-spotted with white markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled, distinctively patterned",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya porphyroglossa": {
+    "color": {
+      "primary": "golden-yellow to golden-orange",
+      "secondary": null,
+      "lip": "deep magenta-purple with white striping and veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated to broad, curved",
+      "symmetry": "good",
+      "lip_shape": "large with butterfly-like pattern",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "velvety",
+    "source": "mined"
+  },
+  "Cattleya praestans": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "yellow-centered with deep magenta or purple surround and red markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad rounded with elongated tendencies",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya presidentensis": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "yellow with darker markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "large, distinctive",
+      "flatness": "reflexed"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya pumila": {
+    "color": {
+      "primary": "magenta-purple",
+      "secondary": null,
+      "lip": "deep magenta-purple with white centers and darker veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya purpurata": {
+    "color": {
+      "primary": "white to pale lavender",
+      "secondary": "white",
+      "lip": "deep purple to burgundy with yellow center and darker markings",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "lavender",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "carnea": {
+          "primary": "white",
+          "lip": "soft pink with darker veining",
+          "saturation": "medium",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "pink",
+              "intensity": "low"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "veined",
+              "contrast": "medium"
+            }
+          }
+        },
+        "sanguinea": {
+          "primary": "white",
+          "lip": "deep blood-red",
+          "saturation": "high",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "crimson",
+              "intensity": "high"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, elongated, slightly ruffled",
+      "symmetry": "good",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya pygmaea": {
+    "color": {
+      "primary": "red-orange",
+      "secondary": null,
+      "lip": "yellow and red with darker patterning",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "pointed to star-shaped",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive patterning",
+      "flatness": "reflexed"
+    },
+    "size": "miniature",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya quadricolor": {
+    "color": {
+      "primary": "white",
+      "secondary": null,
+      "lip": "magenta and yellow with orange gradient",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad and rounded",
+      "symmetry": "good",
+      "lip_shape": "large and frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya reginae": {
+    "color": {
+      "primary": "pale lavender-pink",
+      "secondary": null,
+      "lip": "bright yellow with dark purple or burgundy markings",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated with pointed tips",
+      "symmetry": "good",
+      "lip_shape": "large and prominent",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya rex": {
+    "color": {
+      "primary": "white to cream",
+      "secondary": null,
+      "lip": "magenta-pink to purple with yellow center",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "cream",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated to broad",
+      "symmetry": "good",
+      "lip_shape": "large frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya rupestris": {
+    "color": {
+      "primary": "magenta-purple",
+      "secondary": null,
+      "lip": "white to cream with purple or magenta markings and yellow center accents",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded to elongated",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya sanguiloba": {
+    "color": {
+      "primary": "orange-red",
+      "secondary": null,
+      "lip": "darker red-coral with distinctive pattern and markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled with distinctive central patterning",
+      "flatness": "reflexed"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya schilleriana": {
+    "color": {
+      "primary": "olive-green to brown with dark reddish-brown spots",
+      "secondary": "white",
+      "lip": "deep magenta-purple with white center and radiating veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "red",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya schofieldiana": {
+    "color": {
+      "primary": "yellow-green to golden-yellow",
+      "secondary": "pink-white",
+      "lip": "magenta-pink with white center, spotted and striped patterns",
+      "saturation": "medium",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated with rounded lateral petals",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled texture",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya schroederae": {
+    "color": {
+      "primary": "white to pale lavender-pink",
+      "secondary": null,
+      "lip": "yellow-orange with purple striping and magenta accents",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "low"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad and rounded",
+      "symmetry": "good",
+      "lip_shape": "large and frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya sincorana": {
+    "color": {
+      "primary": "vibrant magenta",
+      "secondary": null,
+      "lip": "darker magenta to purple with white or lighter center markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large, with ruffled margins",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya tenebrosa": {
+    "color": {
+      "primary": "magenta-purple",
+      "secondary": null,
+      "lip": "deep magenta-purple with white or lighter center and dark striations",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded to elongated",
+      "symmetry": "good",
+      "lip_shape": "large with contrasting center",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "heavy",
+    "texture": "velvety",
+    "source": "mined"
+  },
+  "Cattleya tenuis": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "magenta-pink with white markings and purple veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded, elongated",
+      "symmetry": "good",
+      "lip_shape": "large, distinctive",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya tereticaulis": {
+    "color": {
+      "primary": "vibrant magenta",
+      "secondary": null,
+      "lip": "magenta with yellow and white center, darker purple spotting and striping",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated with broad tendencies",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive patterning",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya tigrina": {
+    "color": {
+      "primary": "olive-green to bronze with dark brown-purple spots",
+      "secondary": "dark brown-purple",
+      "lip": "vivid magenta-rose, broad and showy",
+      "saturation": "high",
+      "distribution": "heavily spotted and barred",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "crimson",
+          "intensity": "very_high"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": "blue-violet",
+          "intensity": "low"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow to moderate, somewhat undulate",
+      "symmetry": "moderate",
+      "lip_shape": "open, broad, ruffled edges",
+      "flatness": "slightly reflexed"
+    },
+    "size": "medium",
+    "substance": "heavy",
+    "texture": "slightly rough, glossy",
+    "source": "curated"
+  },
+  "Cattleya trianae": {
+    "color": {
+      "primary": "white to lavender-pink",
+      "secondary": "magenta-purple",
+      "lip": "magenta-purple with yellow center and deep magenta streaking",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "pink",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with pale yellow center",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "pale blue-violet",
+          "lip": "deep blue-purple",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "low"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large with ruffled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya vandenbergii": {
+    "color": {
+      "primary": "soft lavender-purple",
+      "secondary": null,
+      "lip": "dark purple with subtle striations",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "lavender",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad",
+      "symmetry": "good",
+      "lip_shape": "large",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya vasconcelosiana": {
+    "color": {
+      "primary": "bright golden-yellow",
+      "secondary": null,
+      "lip": "darker yellow with subtle striations and markings",
+      "saturation": "high",
+      "distribution": "spotted",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "spotted",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "excellent",
+      "lip_shape": "ruffled, textured, frilled",
+      "flatness": "reflexed"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya velutina": {
+    "color": {
+      "primary": "golden-orange to burgundy",
+      "secondary": "cream to yellow",
+      "lip": "white to yellow with purple and burgundy veining and striping",
+      "saturation": "high",
+      "distribution": "mottled",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "burgundy",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "golden-yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "mottled",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "large with shell-shaped formations",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "velvety",
+    "source": "mined"
+  },
+  "Cattleya verboonenii": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "darker yellow with distinctive pattern",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow, elongated, pointed",
+      "symmetry": "good",
+      "lip_shape": "ruffled, curved",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya violacea": {
+    "color": {
+      "primary": "magenta-pink",
+      "secondary": null,
+      "lip": "deep magenta with contrasting pattern and markings",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with faint yellow throat",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "blue-violet",
+          "lip": "indigo-blue with darker veining",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "medium"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "semi-alba": {
+          "primary": "white",
+          "lip": "deep magenta-purple",
+          "saturation": "high",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded to elongated",
+      "symmetry": "good",
+      "lip_shape": "large with distinctive markings",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya virens": {
+    "color": {
+      "primary": "pale yellow-green",
+      "secondary": null,
+      "lip": "white to cream with purple markings",
+      "saturation": "low",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "low"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated, curved",
+      "symmetry": "good",
+      "lip_shape": "distinctive curved, boat-shaped",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya walkeriana": {
+    "color": {
+      "primary": "rose-lavender",
+      "secondary": null,
+      "lip": "magenta with yellow or white center",
+      "saturation": "medium",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "rose-pink",
+          "intensity": "medium"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with faint yellow",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "coerulea": {
+          "primary": "blue-lavender",
+          "lip": "deep blue-purple",
+          "pigments": {
+            "anthocyanin": {
+              "hue": "blue-violet",
+              "intensity": "medium"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": "blue",
+              "intensity": "medium"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded to elongated",
+      "symmetry": "good",
+      "lip_shape": "large with frilled edges",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya wallisii": {
+    "color": {
+      "primary": "lavender-purple",
+      "secondary": "white",
+      "lip": "deep magenta with yellow center and purple markings",
+      "saturation": "high",
+      "distribution": "fading",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "lavender",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "fading",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and broad",
+      "symmetry": "good",
+      "lip_shape": "large and frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya warneri": {
+    "color": {
+      "primary": "lavender-pink",
+      "secondary": "pale lavender",
+      "lip": "deep magenta-purple with yellow and white throat",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "medium"
+        },
+        "co_pigment": {
+          "hue": "violet",
+          "intensity": "low"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, ruffled",
+      "symmetry": "good",
+      "lip_shape": "open ruffled, widely flared",
+      "flatness": "flat"
+    },
+    "size": "very large",
+    "substance": "heavy",
+    "texture": "slightly crystalline",
+    "source": "curated"
+  },
+  "Cattleya warscewiczii": {
+    "color": {
+      "primary": "white",
+      "secondary": null,
+      "lip": "deep purple-magenta with yellow center accents",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      },
+      "forms": {
+        "tipo": {},
+        "alba": {
+          "primary": "white",
+          "lip": "white with yellow throat",
+          "saturation": "low",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": "yellow",
+              "intensity": "low"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        },
+        "semi-alba": {
+          "primary": "white",
+          "lip": "deep magenta-purple with gold eye",
+          "saturation": "high",
+          "pigments": {
+            "anthocyanin": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "carotenoid": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "co_pigment": {
+              "hue": null,
+              "intensity": "none"
+            },
+            "pattern": {
+              "type": "even",
+              "contrast": "low"
+            }
+          }
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "elongated and broad",
+      "symmetry": "good",
+      "lip_shape": "large frilled with shell-like ridges",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya wittigiana": {
+    "color": {
+      "primary": "vibrant magenta-pink",
+      "secondary": null,
+      "lip": "yellow-orange center with darker magenta-red striations and veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "excellent",
+      "lip_shape": "large, textured",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "mined"
+  },
+  "Cattleya xanthina": {
+    "color": {
+      "primary": "bright yellow",
+      "secondary": null,
+      "lip": "white and yellow with red, magenta, or pink striations and markings",
+      "saturation": "high",
+      "distribution": "striped",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "striped",
+          "contrast": "high"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "narrow and elongated",
+      "symmetry": "good",
+      "lip_shape": "ruffled and broad",
+      "flatness": "moderately flat"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "mined"
+  },
+  "Cattleya dowiana aurea": {
+    "color": {
+      "primary": "golden-yellow",
+      "secondary": null,
+      "lip": "crimson with gold veining",
+      "saturation": "high",
+      "distribution": "veined",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "yellow",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "veined",
+          "contrast": "medium"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "large, frilled",
+      "flatness": "moderately flat"
+    },
+    "size": "large",
+    "substance": "heavy",
+    "texture": "waxy",
+    "source": "llm-generated"
+  },
+  "Guarianthe aurantiaca": {
+    "color": {
+      "primary": "bright orange",
+      "secondary": null,
+      "lip": "orange-red",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "carotenoid": {
+          "hue": "orange",
+          "intensity": "high"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "compact, rounded",
+      "symmetry": "good",
+      "lip_shape": "small, tubular",
+      "flatness": "cupped"
+    },
+    "size": "small",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "llm-generated"
+  },
+  "Guarianthe skinneri": {
+    "color": {
+      "primary": "rose-purple",
+      "secondary": null,
+      "lip": "deep magenta-pink with white throat",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "rose-pink",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "broad, rounded",
+      "symmetry": "good",
+      "lip_shape": "medium, trumpet",
+      "flatness": "moderately flat"
+    },
+    "size": "medium",
+    "substance": "medium",
+    "texture": "satiny",
+    "source": "llm-generated"
+  },
+  "Cattleya bowringiana": {
+    "color": {
+      "primary": "rose-magenta",
+      "secondary": null,
+      "lip": "magenta with darker markings and white throat",
+      "saturation": "high",
+      "distribution": "even",
+      "pigments": {
+        "anthocyanin": {
+          "hue": "magenta",
+          "intensity": "high"
+        },
+        "carotenoid": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "co_pigment": {
+          "hue": null,
+          "intensity": "none"
+        },
+        "pattern": {
+          "type": "even",
+          "contrast": "low"
+        }
+      }
+    },
+    "form": {
+      "petal_shape": "rounded",
+      "symmetry": "good",
+      "lip_shape": "medium, tubular",
+      "flatness": "moderately flat"
+    },
+    "size": "small-medium",
+    "substance": "medium",
+    "texture": "waxy",
+    "source": "gap-fill"
+  }
+}

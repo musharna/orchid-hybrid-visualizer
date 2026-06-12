@@ -1,0 +1,16 @@
+# Requirements for the LIVE interactive generator (app_live.py) on a ZeroGPU Space (HF PRO).
+# Not used by the free pre-rendered gallery (app.py); see requirements.txt for that.
+#
+# diffusers/transformers/peft are PINNED to the regime the v2 ancestry LoRA was validated
+# under. The LoRA is kohya/sd-scripts format; diffusers >=0.38 regressed its text-encoder
+# conversion (empty rank_dict -> IndexError in _create_lora_config), so do NOT loosen these.
+spaces
+gradio==5.50.0
+diffusers==0.31.0
+transformers==4.46.3
+peft==0.13.2
+torch
+safetensors
+accelerate
+pillow
+huggingface_hub
