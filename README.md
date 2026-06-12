@@ -8,7 +8,7 @@ sdk_version: 5.50.0
 app_file: app.py
 pinned: false
 license: mit
-short_description: AI-predicted appearances of 27 famous Cattleya orchid hybrids
+short_description: Predicted appearances of 27 famous Cattleya hybrids
 ---
 
 # 🌸 Cattleya Orchid Hybrid Visualizer
