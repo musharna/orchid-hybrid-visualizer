@@ -18,13 +18,20 @@ botanical phenotype engine blends the two parent species' trait profiles (pigmen
 genetic dominance rules) into a CLIP-optimized appearance description, which is rendered with
 **SDXL + a custom Cattleya ancestry LoRA**.
 
-The blend target is validated against real hybrids in
-[orchid-clip-v8](https://huggingface.co/mjarnold/orchid-clip-v8) latent space: real hybrids sit
-near the parent midpoint, and the residual deviation is transgressive (novel beyond both
-parents), not a lean toward one parent (Stage 16/18).
+These are _predictions of hypothetical appearance_, not photographs.
 
-**Click any image** to see its parent species and the exact prompt that produced it. These are
-_predictions of hypothetical appearance_, not photographs.
+## Three tabs
+
+- **🌸 Gallery** — browse the 27 predicted hybrids. Click one to see its **real parent-species
+  photos** (licensing-clean CC-BY / public-domain, with credits), the exact prompt used, a
+  reference link, and a **variation strip** (4 different model draws of the same cross).
+- **🧬 Latent map** — the science, made interactive. For each cross, the two parents sit at the
+  ends of a horizontal _chord_ and the predicted F1 blend at the **midpoint**. For crosses with
+  real examples in [orchid-clip-v8](https://huggingface.co/mjarnold/orchid-clip-v8) latent space,
+  the **real hybrid** is plotted _perpendicular_ to the chord — its off-chord offset is the
+  **transgressive residual** (novel beyond both parents, not a lean toward one parent). This
+  replicated under permutation tests and a DINOv2 backbone (Stage 16/18).
+- **ℹ️ About** — the phenotype-engine pipeline and links to the rest of the orchid series.
 
 This is a free, pre-rendered gallery (seed 42, F1 depth). A live interactive generator — custom
 parent pairs, warm-color control, multiple seeds — lives in `app_live.py`; it runs SDXL
@@ -32,4 +39,5 @@ in-Space and needs ZeroGPU hardware (HF PRO).
 
 - **Base model:** `stabilityai/stable-diffusion-xl-base-1.0`
 - **LoRA:** [`mjarnold/orchid-ancestry-lora-v2`](https://huggingface.co/mjarnold/orchid-ancestry-lora-v2)
-- **Rendered by:** `render_gallery.py` (diffusers 0.31, the version regime the LoRA was validated under)
+- **Rendered by:** `render_gallery.py` / `render_seeds.py` (diffusers 0.31, the regime the LoRA was validated under)
+- **Also in this series:** [orchid-clip-v8](https://huggingface.co/mjarnold/orchid-clip-v8) · [orchid-genus-id](https://huggingface.co/spaces/mjarnold/orchid-genus-id)
