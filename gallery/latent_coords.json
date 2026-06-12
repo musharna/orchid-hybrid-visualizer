@@ -1,0 +1,771 @@
+{
+  "crosses": [
+    {
+      "stem": "C_Hardyana",
+      "display": "C. Hardyana",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "dowiana",
+          "epithet": "dowiana",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "warscewiczii",
+          "epithet": "warscewiczii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Brabantiae",
+      "display": "C. Brabantiae",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "aclandiae",
+          "epithet": "aclandiae",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "loddigesii",
+          "epithet": "loddigesii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Interglossa",
+      "display": "C. Interglossa",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "amethystoglossa",
+          "epithet": "amethystoglossa",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "intermedia",
+          "epithet": "intermedia",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Empress_Frederick",
+      "display": "C. Empress Frederick",
+      "hybrid": [
+        0.2553,
+        1.0993
+      ],
+      "parents": [
+        {
+          "name": "dowiana_aurea",
+          "epithet": "dowiana",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.019
+          ]
+        },
+        {
+          "name": "mossiae",
+          "epithet": "mossiae",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.019
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": 76.9,
+      "note": "real examples: 1"
+    },
+    {
+      "stem": "C_guatemalensis",
+      "display": "C. guatemalensis",
+      "hybrid": null,
+      "parents": [],
+      "midpoint": null,
+      "angle_deg": null,
+      "note": "parent embeddings unavailable"
+    },
+    {
+      "stem": "C_Canhamiana",
+      "display": "C. Canhamiana",
+      "hybrid": [
+        -0.2277,
+        1.062
+      ],
+      "parents": [
+        {
+          "name": "purpurata",
+          "epithet": "purpurata",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0181
+          ]
+        },
+        {
+          "name": "mossiae",
+          "epithet": "mossiae",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0181
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": 77.9,
+      "note": "real examples: 1"
+    },
+    {
+      "stem": "C_Iris",
+      "display": "C. Iris",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "bicolor",
+          "epithet": "bicolor",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "dowiana",
+          "epithet": "dowiana",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Pittiae",
+      "display": "C. Pittiae",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "harrisoniana",
+          "epithet": "harrisoniana",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "schilleriana",
+          "epithet": "schilleriana",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Leda",
+      "display": "C. Leda",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "dowiana",
+          "epithet": "dowiana",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "percivaliana",
+          "epithet": "percivaliana",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Landate",
+      "display": "C. Landate",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "aclandiae",
+          "epithet": "aclandiae",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "guttata",
+          "epithet": "guttata",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Wendlandiana",
+      "display": "C. Wendlandiana",
+      "hybrid": null,
+      "parents": [],
+      "midpoint": null,
+      "angle_deg": null,
+      "note": "parent embeddings unavailable"
+    },
+    {
+      "stem": "C_Dupreana",
+      "display": "C. Dupreana",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "warneri",
+          "epithet": "warneri",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "warscewiczii",
+          "epithet": "warscewiczii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Dolosa",
+      "display": "C. Dolosa",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "loddigesii",
+          "epithet": "loddigesii",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "walkeriana",
+          "epithet": "walkeriana",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Claesiana",
+      "display": "C. Claesiana",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "intermedia",
+          "epithet": "intermedia",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "loddigesii",
+          "epithet": "loddigesii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Browniae",
+      "display": "C. Browniae",
+      "hybrid": null,
+      "parents": [],
+      "midpoint": null,
+      "angle_deg": null,
+      "note": "parent embeddings unavailable"
+    },
+    {
+      "stem": "C_Quinquecolor",
+      "display": "C. Quinquecolor",
+      "hybrid": [
+        -0.427,
+        1.0101
+      ],
+      "parents": [
+        {
+          "name": "aclandiae",
+          "epithet": "aclandiae",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0349
+          ]
+        },
+        {
+          "name": "forbesii",
+          "epithet": "forbesii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0349
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": 67.1,
+      "note": "real examples: 1"
+    },
+    {
+      "stem": "C_Chocolate_Drop",
+      "display": "C. Chocolate Drop",
+      "hybrid": null,
+      "parents": [],
+      "midpoint": null,
+      "angle_deg": null,
+      "note": "parent embeddings unavailable"
+    },
+    {
+      "stem": "C_Triumphans",
+      "display": "C. Triumphans",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "dowiana",
+          "epithet": "dowiana",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "rex",
+          "epithet": "rex",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Venus",
+      "display": "C. Venus",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "dowiana",
+          "epithet": "dowiana",
+          "weight": 75.0,
+          "xy": [
+            -0.4837,
+            0.0
+          ]
+        },
+        {
+          "name": "bicolor",
+          "epithet": "bicolor",
+          "weight": 25.0,
+          "xy": [
+            1.5163,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Whitei",
+      "display": "C. Whitei",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "schilleriana",
+          "epithet": "schilleriana",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "warneri",
+          "epithet": "warneri",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Measuresiana",
+      "display": "C. Measuresiana",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "aclandiae",
+          "epithet": "aclandiae",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "walkeriana",
+          "epithet": "walkeriana",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Elegans",
+      "display": "C. Elegans",
+      "hybrid": [
+        0.3192,
+        0.957
+      ],
+      "parents": [
+        {
+          "name": "tigrina",
+          "epithet": "tigrina",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0279
+          ]
+        },
+        {
+          "name": "purpurata",
+          "epithet": "purpurata",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0279
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": 71.6,
+      "note": "real examples: 1"
+    },
+    {
+      "stem": "C_Peetersii",
+      "display": "C. Peetersii",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "lawrenceana",
+          "epithet": "lawrenceana",
+          "weight": 50.0,
+          "xy": [
+            -0.6685,
+            0.0
+          ]
+        },
+        {
+          "name": "warscewiczii",
+          "epithet": "warscewiczii",
+          "weight": 25.0,
+          "xy": [
+            1.3315,
+            0.0
+          ]
+        },
+        {
+          "name": "purpurata",
+          "epithet": "purpurata",
+          "weight": 25.0,
+          "xy": [
+            0.0303,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Minucia",
+      "display": "C. Minucia",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "loddigesii",
+          "epithet": "loddigesii",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "warscewiczii",
+          "epithet": "warscewiczii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Brymeriana",
+      "display": "C. Brymeriana",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "violacea",
+          "epithet": "violacea",
+          "weight": 50.0,
+          "xy": [
+            -1.0,
+            0.0
+          ]
+        },
+        {
+          "name": "wallisii",
+          "epithet": "wallisii",
+          "weight": 50.0,
+          "xy": [
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    },
+    {
+      "stem": "C_Portia",
+      "display": "C. Portia",
+      "hybrid": null,
+      "parents": [],
+      "midpoint": null,
+      "angle_deg": null,
+      "note": "parent embeddings unavailable"
+    },
+    {
+      "stem": "C_Mem_Albert_Heinecke",
+      "display": "C. Mem. Albert Heinecke",
+      "hybrid": null,
+      "parents": [
+        {
+          "name": "dowiana",
+          "epithet": "dowiana",
+          "weight": 69.0,
+          "xy": [
+            -0.4366,
+            0.0
+          ]
+        },
+        {
+          "name": "bicolor",
+          "epithet": "bicolor",
+          "weight": 16.0,
+          "xy": [
+            1.5634,
+            0.0
+          ]
+        },
+        {
+          "name": "tenebrosa",
+          "epithet": "tenebrosa",
+          "weight": 13.0,
+          "xy": [
+            0.5221,
+            0.0
+          ]
+        },
+        {
+          "name": "warscewiczii",
+          "epithet": "warscewiczii",
+          "weight": 3.0,
+          "xy": [
+            0.0927,
+            0.0
+          ]
+        }
+      ],
+      "midpoint": [
+        0.0,
+        0.0
+      ],
+      "angle_deg": null,
+      "note": "no real examples in 1002-hybrid set"
+    }
+  ],
+  "space": "v8 (orchid-clip-v8) latent, cosine"
+}

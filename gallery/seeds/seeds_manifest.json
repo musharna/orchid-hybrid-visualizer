@@ -1,0 +1,168 @@
+{
+  "n": 4,
+  "seed": 42,
+  "crosses": {
+    "C_Hardyana": [
+      "C_Hardyana_v0.jpg",
+      "C_Hardyana_v1.jpg",
+      "C_Hardyana_v2.jpg",
+      "C_Hardyana_v3.jpg"
+    ],
+    "C_Brabantiae": [
+      "C_Brabantiae_v0.jpg",
+      "C_Brabantiae_v1.jpg",
+      "C_Brabantiae_v2.jpg",
+      "C_Brabantiae_v3.jpg"
+    ],
+    "C_Interglossa": [
+      "C_Interglossa_v0.jpg",
+      "C_Interglossa_v1.jpg",
+      "C_Interglossa_v2.jpg",
+      "C_Interglossa_v3.jpg"
+    ],
+    "C_Empress_Frederick": [
+      "C_Empress_Frederick_v0.jpg",
+      "C_Empress_Frederick_v1.jpg",
+      "C_Empress_Frederick_v2.jpg",
+      "C_Empress_Frederick_v3.jpg"
+    ],
+    "C_guatemalensis": [
+      "C_guatemalensis_v0.jpg",
+      "C_guatemalensis_v1.jpg",
+      "C_guatemalensis_v2.jpg",
+      "C_guatemalensis_v3.jpg"
+    ],
+    "C_Canhamiana": [
+      "C_Canhamiana_v0.jpg",
+      "C_Canhamiana_v1.jpg",
+      "C_Canhamiana_v2.jpg",
+      "C_Canhamiana_v3.jpg"
+    ],
+    "C_Iris": [
+      "C_Iris_v0.jpg",
+      "C_Iris_v1.jpg",
+      "C_Iris_v2.jpg",
+      "C_Iris_v3.jpg"
+    ],
+    "C_Pittiae": [
+      "C_Pittiae_v0.jpg",
+      "C_Pittiae_v1.jpg",
+      "C_Pittiae_v2.jpg",
+      "C_Pittiae_v3.jpg"
+    ],
+    "C_Leda": [
+      "C_Leda_v0.jpg",
+      "C_Leda_v1.jpg",
+      "C_Leda_v2.jpg",
+      "C_Leda_v3.jpg"
+    ],
+    "C_Landate": [
+      "C_Landate_v0.jpg",
+      "C_Landate_v1.jpg",
+      "C_Landate_v2.jpg",
+      "C_Landate_v3.jpg"
+    ],
+    "C_Wendlandiana": [
+      "C_Wendlandiana_v0.jpg",
+      "C_Wendlandiana_v1.jpg",
+      "C_Wendlandiana_v2.jpg",
+      "C_Wendlandiana_v3.jpg"
+    ],
+    "C_Dupreana": [
+      "C_Dupreana_v0.jpg",
+      "C_Dupreana_v1.jpg",
+      "C_Dupreana_v2.jpg",
+      "C_Dupreana_v3.jpg"
+    ],
+    "C_Dolosa": [
+      "C_Dolosa_v0.jpg",
+      "C_Dolosa_v1.jpg",
+      "C_Dolosa_v2.jpg",
+      "C_Dolosa_v3.jpg"
+    ],
+    "C_Claesiana": [
+      "C_Claesiana_v0.jpg",
+      "C_Claesiana_v1.jpg",
+      "C_Claesiana_v2.jpg",
+      "C_Claesiana_v3.jpg"
+    ],
+    "C_Browniae": [
+      "C_Browniae_v0.jpg",
+      "C_Browniae_v1.jpg",
+      "C_Browniae_v2.jpg",
+      "C_Browniae_v3.jpg"
+    ],
+    "C_Quinquecolor": [
+      "C_Quinquecolor_v0.jpg",
+      "C_Quinquecolor_v1.jpg",
+      "C_Quinquecolor_v2.jpg",
+      "C_Quinquecolor_v3.jpg"
+    ],
+    "C_Chocolate_Drop": [
+      "C_Chocolate_Drop_v0.jpg",
+      "C_Chocolate_Drop_v1.jpg",
+      "C_Chocolate_Drop_v2.jpg",
+      "C_Chocolate_Drop_v3.jpg"
+    ],
+    "C_Triumphans": [
+      "C_Triumphans_v0.jpg",
+      "C_Triumphans_v1.jpg",
+      "C_Triumphans_v2.jpg",
+      "C_Triumphans_v3.jpg"
+    ],
+    "C_Venus": [
+      "C_Venus_v0.jpg",
+      "C_Venus_v1.jpg",
+      "C_Venus_v2.jpg",
+      "C_Venus_v3.jpg"
+    ],
+    "C_Whitei": [
+      "C_Whitei_v0.jpg",
+      "C_Whitei_v1.jpg",
+      "C_Whitei_v2.jpg",
+      "C_Whitei_v3.jpg"
+    ],
+    "C_Measuresiana": [
+      "C_Measuresiana_v0.jpg",
+      "C_Measuresiana_v1.jpg",
+      "C_Measuresiana_v2.jpg",
+      "C_Measuresiana_v3.jpg"
+    ],
+    "C_Elegans": [
+      "C_Elegans_v0.jpg",
+      "C_Elegans_v1.jpg",
+      "C_Elegans_v2.jpg",
+      "C_Elegans_v3.jpg"
+    ],
+    "C_Peetersii": [
+      "C_Peetersii_v0.jpg",
+      "C_Peetersii_v1.jpg",
+      "C_Peetersii_v2.jpg",
+      "C_Peetersii_v3.jpg"
+    ],
+    "C_Minucia": [
+      "C_Minucia_v0.jpg",
+      "C_Minucia_v1.jpg",
+      "C_Minucia_v2.jpg",
+      "C_Minucia_v3.jpg"
+    ],
+    "C_Brymeriana": [
+      "C_Brymeriana_v0.jpg",
+      "C_Brymeriana_v1.jpg",
+      "C_Brymeriana_v2.jpg",
+      "C_Brymeriana_v3.jpg"
+    ],
+    "C_Portia": [
+      "C_Portia_v0.jpg",
+      "C_Portia_v1.jpg",
+      "C_Portia_v2.jpg",
+      "C_Portia_v3.jpg"
+    ],
+    "C_Mem_Albert_Heinecke": [
+      "C_Mem_Albert_Heinecke_v0.jpg",
+      "C_Mem_Albert_Heinecke_v1.jpg",
+      "C_Mem_Albert_Heinecke_v2.jpg",
+      "C_Mem_Albert_Heinecke_v3.jpg"
+    ]
+  }
+}

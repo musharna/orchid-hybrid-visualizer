@@ -1,0 +1,236 @@
+{
+  "aclandiae": {
+    "file": "aclandiae.jpg",
+    "license": "public domain",
+    "photographer": "Ruthven",
+    "source": "wikimedia",
+    "source_id": "Orchidacee_cattleya_oclandiae.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Orchidacee_cattleya_oclandiae.jpg",
+    "credit": "Photo: Ruthven (Wikimedia Commons), Public Domain"
+  },
+  "amethystoglossa": {
+    "file": "amethystoglossa.jpg",
+    "license": "public domain",
+    "photographer": "Gone Postal",
+    "source": "wikimedia",
+    "source_id": "Stamp_of_Brazil_-_1980_-_Colnect_195137_-_Cattleya_amethystoglossa.jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stamp_of_Brazil_-_1980_-_Colnect_195137_-_Cattleya_amethystoglossa.jpeg",
+    "credit": "Photo: Gone Postal (Wikimedia Commons), Public Domain"
+  },
+  "aurantiaca": {
+    "file": "aurantiaca.jpg",
+    "license": "cc-by",
+    "photographer": "alboertoalcala",
+    "source": "inaturalist",
+    "source_id": "346204531",
+    "source_url": "https://www.inaturalist.org/observations/346204531",
+    "credit": "Photo: alboertoalcala (iNaturalist), CC BY 4.0"
+  },
+  "bicolor": {
+    "file": "bicolor.jpg",
+    "license": "public domain",
+    "photographer": "Javier martin",
+    "source": "wikimedia",
+    "source_id": "Cattleya_bicolor.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cattleya_bicolor.jpg",
+    "credit": "Photo: Javier martin (Wikimedia Commons), Public Domain"
+  },
+  "bowringiana": {
+    "file": "bowringiana.jpg",
+    "license": "cc0",
+    "photographer": "sobeymorales",
+    "source": "inaturalist",
+    "source_id": "133040929",
+    "source_url": "https://www.inaturalist.org/observations/133040929",
+    "credit": "Photo: sobeymorales (iNaturalist), CC0 1.0"
+  },
+  "dowiana": {
+    "file": "dowiana.jpg",
+    "license": "public-domain",
+    "photographer": "Swallowtail Garden Seeds",
+    "source": "flickr",
+    "source_id": "15124609085",
+    "source_url": "https://www.flickr.com/photos/15124609085",
+    "credit": "Photo: Swallowtail Garden Seeds (Flickr), Public Domain"
+  },
+  "forbesii": {
+    "file": "forbesii.jpg",
+    "license": "cc-by",
+    "photographer": "diogoluiz",
+    "source": "inaturalist",
+    "source_id": "277502544",
+    "source_url": "https://www.inaturalist.org/observations/277502544",
+    "credit": "Photo: diogoluiz (iNaturalist), CC BY 4.0"
+  },
+  "guttata": {
+    "file": "guttata.jpg",
+    "license": "cc-by",
+    "photographer": "Motohiro Sunouchi",
+    "source": "flickr",
+    "source_id": "50603689277",
+    "source_url": "https://www.flickr.com/photos/50603689277",
+    "credit": "Photo: Motohiro Sunouchi (Flickr), CC BY 4.0"
+  },
+  "harrisoniana": {
+    "file": "harrisoniana.jpg",
+    "license": "cc0",
+    "photographer": "jeanpaulboerekamps",
+    "source": "inaturalist",
+    "source_id": "65112427",
+    "source_url": "https://www.inaturalist.org/observations/65112427",
+    "credit": "Photo: jeanpaulboerekamps (iNaturalist), CC0 1.0"
+  },
+  "intermedia": {
+    "file": "intermedia.jpg",
+    "license": "cc-by",
+    "photographer": "lucaskaminski",
+    "source": "inaturalist",
+    "source_id": "139858183",
+    "source_url": "https://www.inaturalist.org/observations/139858183",
+    "credit": "Photo: lucaskaminski (iNaturalist), CC BY 4.0"
+  },
+  "labiata": {
+    "file": "labiata.jpg",
+    "license": "CC-BY",
+    "photographer": "",
+    "source": "powo",
+    "source_id": "urn:lsid:ipni.org:names:622132-1",
+    "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:622132-1",
+    "credit": "Photo: POWO / Kew, CC BY 4.0"
+  },
+  "lawrenceana": {
+    "file": "lawrenceana.jpg",
+    "license": "CC-BY",
+    "photographer": "",
+    "source": "powo",
+    "source_id": "urn:lsid:ipni.org:names:622134-1",
+    "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:622134-1",
+    "credit": "Photo: POWO / Kew, CC BY 4.0"
+  },
+  "loddigesii": {
+    "file": "loddigesii.jpg",
+    "license": "CC-BY",
+    "photographer": "",
+    "source": "powo",
+    "source_id": "urn:lsid:ipni.org:names:622144-1",
+    "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:622144-1",
+    "credit": "Photo: POWO / Kew, CC BY 4.0"
+  },
+  "mossiae": {
+    "file": "mossiae.jpg",
+    "license": "CC-BY",
+    "photographer": "",
+    "source": "powo",
+    "source_id": "urn:lsid:ipni.org:names:50274-2",
+    "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50274-2",
+    "credit": "Photo: POWO / Kew, CC BY 4.0"
+  },
+  "percivaliana": {
+    "file": "percivaliana.jpg",
+    "license": "CC-BY",
+    "photographer": "",
+    "source": "powo",
+    "source_id": "urn:lsid:ipni.org:names:622189-1",
+    "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:622189-1",
+    "credit": "Photo: POWO / Kew, CC BY 4.0"
+  },
+  "purpurata": {
+    "file": "purpurata.jpg",
+    "license": "cc-by",
+    "photographer": "Motohiro Sunouchi",
+    "source": "flickr",
+    "source_id": "51231180935",
+    "source_url": "https://www.flickr.com/photos/51231180935",
+    "credit": "Photo: Motohiro Sunouchi (Flickr), CC BY 4.0"
+  },
+  "rex": {
+    "file": "rex.jpg",
+    "license": "cc-by-nc",
+    "photographer": "sheylan",
+    "source": "inaturalist",
+    "source_id": "100226610",
+    "source_url": "https://www.inaturalist.org/observations/100226610",
+    "credit": "Photo: sheylan (iNaturalist), CC BY-NC 4.0"
+  },
+  "schilleriana": {
+    "file": "schilleriana.jpg",
+    "license": "public-domain",
+    "photographer": "Swallowtail Garden Seeds",
+    "source": "flickr",
+    "source_id": "19042614988",
+    "source_url": "https://www.flickr.com/photos/19042614988",
+    "credit": "Photo: Swallowtail Garden Seeds (Flickr), Public Domain"
+  },
+  "skinneri": {
+    "file": "skinneri.jpg",
+    "license": "cc-by",
+    "photographer": "Motohiro Sunouchi",
+    "source": "flickr",
+    "source_id": "48894245823",
+    "source_url": "https://www.flickr.com/photos/48894245823",
+    "credit": "Photo: Motohiro Sunouchi (Flickr), CC BY 4.0"
+  },
+  "tenebrosa": {
+    "file": "tenebrosa.jpg",
+    "license": "cc-by",
+    "photographer": "Motohiro Sunouchi",
+    "source": "flickr",
+    "source_id": "50064300256",
+    "source_url": "https://www.flickr.com/photos/50064300256",
+    "credit": "Photo: Motohiro Sunouchi (Flickr), CC BY 4.0"
+  },
+  "tigrina": {
+    "file": "tigrina.jpg",
+    "license": "cc-by",
+    "photographer": "lucaskaminski",
+    "source": "inaturalist",
+    "source_id": "142181983",
+    "source_url": "https://www.inaturalist.org/observations/142181983",
+    "credit": "Photo: lucaskaminski (iNaturalist), CC BY 4.0"
+  },
+  "violacea": {
+    "file": "violacea.jpg",
+    "license": "cc-by",
+    "photographer": "enrique_salazar",
+    "source": "inaturalist",
+    "source_id": "150823898",
+    "source_url": "https://www.inaturalist.org/observations/150823898",
+    "credit": "Photo: enrique_salazar (iNaturalist), CC BY 4.0"
+  },
+  "walkeriana": {
+    "file": "walkeriana.jpg",
+    "license": "cc-by",
+    "photographer": "Motohiro Sunouchi",
+    "source": "flickr",
+    "source_id": "49911030701",
+    "source_url": "https://www.flickr.com/photos/49911030701",
+    "credit": "Photo: Motohiro Sunouchi (Flickr), CC BY 4.0"
+  },
+  "wallisii": {
+    "file": "wallisii.jpg",
+    "license": "CC-BY",
+    "photographer": "",
+    "source": "powo",
+    "source_id": "urn:lsid:ipni.org:names:77107097-1",
+    "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77107097-1",
+    "credit": "Photo: POWO / Kew, CC BY 4.0"
+  },
+  "warneri": {
+    "file": "warneri.jpg",
+    "license": "cc-by",
+    "photographer": "diogoluiz",
+    "source": "inaturalist",
+    "source_id": "330371692",
+    "source_url": "https://www.inaturalist.org/observations/330371692",
+    "credit": "Photo: diogoluiz (iNaturalist), CC BY 4.0"
+  },
+  "warscewiczii": {
+    "file": "warscewiczii.jpg",
+    "license": "cc-by",
+    "photographer": "josh_noseworthy",
+    "source": "inaturalist",
+    "source_id": "339013764",
+    "source_url": "https://www.inaturalist.org/observations/339013764",
+    "credit": "Photo: josh_noseworthy (iNaturalist), CC BY 4.0"
+  }
+}

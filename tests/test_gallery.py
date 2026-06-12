@@ -111,3 +111,43 @@ def test_real_gallery_assets_complete():
             assert e["ref_url"].startswith("https://www.google.com/search?tbm=isch"), (
                 f"search ref_url not a google-images link: {e['stem']}"
             )
+
+
+def test_real_seed_variations_complete():
+    """Real-execution check: once the multi-seed GPU render has run, every cross has its
+    variation strip on disk. Skips if seeds haven't been rendered yet."""
+    gdir = os.path.join(os.path.dirname(__file__), "..", "gallery")
+    if not os.path.exists(os.path.join(gdir, "seeds", "seeds_manifest.json")):
+        import pytest
+
+        pytest.skip("seeds not yet rendered")
+    entries = app.load_manifest(gdir)
+    for e in entries:
+        paths = app.seed_items(e["stem"])
+        assert len(paths) == 4, f"{e['stem']} has {len(paths)} variations, expected 4"
+        for p in paths:
+            assert os.path.getsize(p) > 2000, f"trivial variation: {p}"
+
+
+def test_real_parent_photos_licensing_clean():
+    """Real-execution check: parent photos exist and carry redistributable licenses + credit.
+    Skips if parents/ hasn't been assembled."""
+    pdir = os.path.join(os.path.dirname(__file__), "..", "parents")
+    meta_path = os.path.join(pdir, "parents.json")
+    if not os.path.exists(meta_path):
+        import pytest
+
+        pytest.skip("parent photos not yet assembled")
+    with open(meta_path) as f:
+        meta = json.load(f)
+    for ep, m in meta.items():
+        assert os.path.exists(os.path.join(pdir, m["file"])), (
+            f"missing parent photo: {ep}"
+        )
+        assert m.get("credit"), f"no credit line for {ep}"
+        lic = m["license"].lower()
+        # no all-rights-reserved / ND / unknown in the bundled set (rex may be cc-by-nc)
+        assert "all-rights" not in lic and lic not in ("", "none"), (
+            f"non-clean license for {ep}: {lic}"
+        )
+        assert "-nd" not in lic and "noderiv" not in lic, f"ND license for {ep}: {lic}"
