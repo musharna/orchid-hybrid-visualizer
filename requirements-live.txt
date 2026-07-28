@@ -6,9 +6,9 @@
 # conversion (empty rank_dict -> IndexError in _create_lora_config), so do NOT loosen these.
 spaces
 gradio==5.50.0
-diffusers==0.31.0
+diffusers==0.39.0
 transformers==4.46.3
-peft==0.13.2
+peft==0.19.1
 torch
 safetensors
 accelerate
