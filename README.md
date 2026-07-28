@@ -23,7 +23,7 @@ These are _predictions of hypothetical appearance_, not photographs.
 ## Three tabs
 
 - **🌸 Gallery** — browse the 27 predicted hybrids. Click one to see its **real parent-species
-  photos** (licensing-clean CC-BY / public-domain, with credits), the exact prompt used, a
+  photos** (CC BY / CC0 / public-domain, per-photo credits in [`parents/CREDITS.md`](parents/CREDITS.md); one fallback photo is CC BY-NC), the exact prompt used, a
   reference link, and a **variation strip** (4 different model draws of the same cross).
 - **🧬 Latent map** — the science, made interactive. For each cross, the two parents sit at the
   ends of a horizontal _chord_ and the predicted F1 blend at the **midpoint**. For crosses with
@@ -41,3 +41,13 @@ in-Space and needs ZeroGPU hardware (HF PRO).
 - **LoRA:** [`mjarnold/orchid-ancestry-lora-v2`](https://huggingface.co/mjarnold/orchid-ancestry-lora-v2)
 - **Rendered by:** `render_gallery.py` / `render_seeds.py` (diffusers 0.31, the regime the LoRA was validated under)
 - **Also in this series:** [orchid-clip-v8](https://huggingface.co/mjarnold/orchid-clip-v8) · [orchid-genus-id](https://huggingface.co/spaces/mjarnold/orchid-genus-id)
+
+## License
+
+**Code** is MIT. **Bundled assets are not** — the parent photographs, the
+textual-inversion tokens, and the rendered gallery each keep their own terms,
+and one parent photo is CC BY-NC (NonCommercial), so the repository as a whole
+is not commercially reusable.
+
+See [`LICENSE`](LICENSE) for the scope statement and
+[`ASSETS-LICENSE.md`](ASSETS-LICENSE.md) for the full breakdown.
