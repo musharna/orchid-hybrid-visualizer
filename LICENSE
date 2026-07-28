@@ -1,3 +1,35 @@
+SCOPE OF THIS LICENSE
+=====================
+
+The MIT License below applies to the SOURCE CODE of this repository only —
+the Python files (`*.py`), configuration, and documentation authored for this
+project.
+
+It does NOT apply to the bundled media and model assets, which are third-party
+works or derivatives of third-party works and remain under their own licenses:
+
+  parents/*.jpg   Reference photographs by third-party photographers.
+                  Individually licensed CC BY 4.0, CC0 1.0, Public Domain, and
+                  — for parents/rex.jpg — CC BY-NC 4.0 (NonCommercial).
+                  Per-photo attribution and license: parents/CREDITS.md
+
+  tokens/*.safetensors
+                  Textual-inversion embeddings trained against
+                  stabilityai/stable-diffusion-xl-base-1.0, which is licensed
+                  under the CreativeML Open RAIL++-M License. That license
+                  requires derivatives to carry, at minimum, the same
+                  use-based restrictions.
+
+  gallery/*.jpg   Images generated with the above base model plus the
+                  orchid-ancestry LoRA.
+
+See ASSETS-LICENSE.md for the full breakdown.
+
+IMPORTANT: because parents/rex.jpg is CC BY-NC 4.0, the repository AS A WHOLE
+cannot be used commercially. The MIT grant below does not extend to it.
+
+-------------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026 Jaret Arnold
