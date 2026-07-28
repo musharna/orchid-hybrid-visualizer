@@ -24,3 +24,15 @@ updates:
     groups:
       pip-minor-patch:
         update-types: ["minor", "patch"]
+    # These four are pinned on purpose. requirements-live.txt states the v2
+    # ancestry LoRA (kohya/sd-scripts format) was validated against exactly this
+    # regime, and that diffusers >=0.38 regressed its text-encoder conversion
+    # (empty rank_dict -> IndexError in _create_lora_config). Dependabot proposed
+    # diffusers 0.39.0, transformers 5.14.1 and gradio 6.20.0 within an hour of
+    # this file first landing; all three were closed. Security advisories still
+    # come through -- `ignore` only suppresses version updates.
+    ignore:
+      - dependency-name: "diffusers"
+      - dependency-name: "transformers"
+      - dependency-name: "peft"
+      - dependency-name: "gradio"
