@@ -1,0 +1,43 @@
+name: tests
+
+# This repo has had a 33-test suite in tests/ since before any CI existed, and
+# nothing has ever run it. The only workflow here (publish.yml) triggers on push
+# to main, so pull requests got zero checks -- which meant dependency PRs showed
+# "mergeable / clean" while nothing had verified them at all.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    name: pytest (${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@e797f83bcb11b83ae66e0230d6156d7c80228e7c # v6.0.0
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          # CPU-only torch: the suite never touches a GPU, and the default wheel
+          # pulls ~2 GB of CUDA payload for nothing.
+          pip install --extra-index-url https://download.pytorch.org/whl/cpu \
+            -r requirements-live.txt pytest
+          # requirements-live.txt is the superset (it carries safetensors, torch
+          # and spaces, which tests/ imports but requirements.txt omits).
+
+      - name: pytest
+        run: python -m pytest tests/ -q
