@@ -34,10 +34,13 @@ jobs:
           python -m pip install --upgrade pip
           # CPU-only torch: the suite never touches a GPU, and the default wheel
           # pulls ~2 GB of CUDA payload for nothing.
+          # BOTH files are required, neither is a superset of the other:
+          #   requirements.txt      -> plotly (latentmap.build_figure, imported
+          #                            at module scope by app.py)
+          #   requirements-live.txt -> safetensors, torch, spaces
+          # Installing only one leaves the suite uncollectable.
           pip install --extra-index-url https://download.pytorch.org/whl/cpu \
-            -r requirements-live.txt pytest
-          # requirements-live.txt is the superset (it carries safetensors, torch
-          # and spaces, which tests/ imports but requirements.txt omits).
+            -r requirements.txt -r requirements-live.txt pytest
 
       - name: pytest
         run: python -m pytest tests/ -q
