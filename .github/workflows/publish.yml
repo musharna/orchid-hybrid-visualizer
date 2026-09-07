@@ -26,9 +26,9 @@ jobs:
 
       - name: Publish to the Space
         env:
-          HF_OIDC_RESOURCE: spaces/mjarnold/orchid-hybrid-visualizer
+          HF_OIDC_RESOURCE: spaces/musharna/orchid-hybrid-visualizer
         run: |
-          hf upload mjarnold/orchid-hybrid-visualizer . . \
+          hf upload musharna/orchid-hybrid-visualizer . . \
             --repo-type=space \
             --exclude ".github/*" \
             --exclude ".git/*" \

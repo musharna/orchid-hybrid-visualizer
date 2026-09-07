@@ -22,7 +22,7 @@ SPECIES = sorted(_ENGINE.db.keys())
 _PRESETS = {display: ancestry for _stem, display, ancestry in CROSSES_WITH_DISPLAY}
 _DEPTH = {"F1": 1, "F2": 2, "F3": 3}
 
-_LORA_REPO = "mjarnold/orchid-ancestry-lora-v2"
+_LORA_REPO = "musharna/orchid-ancestry-lora-v2"
 _LORA_FILE = "orchid-ancestry-lora-v2.safetensors"
 _TOKEN_DIR = os.path.join(os.path.dirname(__file__), "tokens")
 
