@@ -52,7 +52,7 @@ terms but must include **at minimum the same use-based restrictions**
 ### `gallery/*.jpg`
 
 Pre-rendered output (seed 42, F1 depth) from SDXL base 1.0 plus
-[`mjarnold/orchid-ancestry-lora-v2`](https://huggingface.co/mjarnold/orchid-ancestry-lora-v2),
+[`musharna/orchid-ancestry-lora-v2`](https://huggingface.co/musharna/orchid-ancestry-lora-v2),
 produced by `render_gallery.py`. OpenRAIL++ does not assert ownership over
 model outputs, but they originate from a restricted-use model.
 
