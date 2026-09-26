@@ -171,14 +171,13 @@ def caption(entry: dict) -> str:
         return f"**{entry['display']}** — parent embeddings unavailable."
     if entry.get("hybrid"):
         return (
-            f"**{entry['display']}** — real hybrid photos sit near the parent **midpoint** along "
-            f"the chord (the F1 blend), but **{entry['angle_deg']:.0f}° off-chord**: the deviation "
-            f"is *transgressive* (beyond both parents), not a lean toward one parent. This is the "
-            f"Stage 16/18 result, validated by permutation tests + DINOv2 replication. "
+            f"**{entry['display']}**: the real hybrid sits **{entry['angle_deg']:.0f}° off the "
+            f"line** between its parents. Across 485 crosses, hybrids sit further off the line "
+            f"when the parents look more different; a single cross shows no trend on its own. "
             f"_{entry['note']}._"
         )
     return (
-        f"**{entry['display']}** — predicted as the F1 blend at the parent midpoint. "
-        f"_No real examples of this cross in the orchid-clip-v8 hybrid set, so the transgressive "
-        f"residual can't be shown here._"
+        f"**{entry['display']}**: the prediction is drawn at the parents' midpoint. "
+        f"_No real examples of this cross in the dataset, so there is nothing to compare it "
+        f"with._"
     )

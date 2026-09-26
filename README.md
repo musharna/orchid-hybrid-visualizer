@@ -4,42 +4,46 @@ emoji: 🌸
 colorFrom: purple
 colorTo: pink
 sdk: gradio
-sdk_version: 5.50.0
+sdk_version: 6.15.1
 app_file: app.py
 pinned: false
 license: mit
-short_description: Predicted appearances of 27 famous Cattleya hybrids
+short_description: Predicted appearances of 27 Cattleya hybrids
 ---
 
-# 🌸 Cattleya Orchid Hybrid Visualizer
+# Cattleya hybrid visualizer
 
-AI-predicted appearances of **27 famous registered Cattleya crosses**. For each cross, a
-botanical phenotype engine blends the two parent species' trait profiles (pigment channels +
-genetic dominance rules) into a CLIP-optimized appearance description, which is rendered with
-**SDXL + a custom Cattleya ancestry LoRA**.
+Predicted appearances of 27 registered _Cattleya_ crosses. A rule-based phenotype engine
+blends the two parent species' traits (pigment channels and dominance rules, which are
+heuristics) into a short prompt, and SDXL with a _Cattleya_ ancestry LoRA renders it. Every
+image is a prediction, not a photograph.
 
-These are _predictions of hypothetical appearance_, not photographs.
+## Tabs
 
-## Three tabs
+- **Gallery**: the 27 predicted hybrids. Click one for photos of the parent species (credits in
+  [`parents/CREDITS.md`](parents/CREDITS.md); one is CC BY-NC), the prompt used, a reference
+  link, and four more draws of the same cross.
+- **Latent map**: each cross's parents in [orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8)
+  embedding space, at the two ends of a line, with the prediction drawn at their midpoint. For
+  the 4 crosses with real hybrid photos, the real hybrid is plotted too. The predicted images
+  themselves are not embedded.
+- **About**: how the pipeline works.
 
-- **🌸 Gallery** — browse the 27 predicted hybrids. Click one to see its **real parent-species
-  photos** (CC BY / CC0 / public-domain, per-photo credits in [`parents/CREDITS.md`](parents/CREDITS.md); one fallback photo is CC BY-NC), the exact prompt used, a
-  reference link, and a **variation strip** (4 different model draws of the same cross).
-- **🧬 Latent map** — the science, made interactive. For each cross, the two parents sit at the
-  ends of a horizontal _chord_ and the predicted F1 blend at the **midpoint**. For crosses with
-  real examples in [orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8) latent space,
-  the **real hybrid** is plotted _perpendicular_ to the chord — its off-chord offset is the
-  **transgressive residual** (novel beyond both parents, not a lean toward one parent). This
-  replicated under permutation tests and a DINOv2 backbone (Stage 16/18).
-- **ℹ️ About** — the phenotype-engine pipeline and links to the rest of the orchid series.
+## What the embeddings show
 
-This is a free, pre-rendered gallery (seed 42, F1 depth). A live interactive generator — custom
-parent pairs, warm-color control, multiple seeds — lives in `app_live.py`; it runs SDXL
-in-Space and needs ZeroGPU hardware (HF PRO).
+Across 1,002 registered orchid hybrids, a real hybrid's orchid-clip-v8 embedding sits closer to
+its parents' midpoint than a shuffled null (cosine 0.910 vs 0.730), and this holds on DINOv2
+(0.886 vs 0.539). Hybrids also sit off the line between their parents, and further off when the
+parents look more different (Spearman ρ 0.52, n = 485, permutation p < 0.001; 0.65 on DINOv2).
+This is visual similarity, not genetics, and weighting the blend by the dominance rules did not
+beat the plain midpoint.
+
+The gallery is pre-rendered (seed 42, F1) and runs on free CPU hardware. `app_live.py` is a live
+version with custom parent pairs and more seeds; it needs a GPU (ZeroGPU) Space.
 
 - **Base model:** `stabilityai/stable-diffusion-xl-base-1.0`
 - **LoRA:** [`musharna/orchid-ancestry-lora-v2`](https://huggingface.co/musharna/orchid-ancestry-lora-v2)
-- **Rendered by:** `render_gallery.py` / `render_seeds.py` (diffusers 0.31, the regime the LoRA was validated under)
+- **Rendered by:** `render_gallery.py` / `render_seeds.py` (diffusers 0.31, the version the LoRA was tested with)
 - **Also in this series:** [orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8) · [orchid-genus-id](https://huggingface.co/spaces/musharna/orchid-genus-id)
 
 ## License
