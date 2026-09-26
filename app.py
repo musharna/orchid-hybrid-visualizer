@@ -1,6 +1,6 @@
 """Orchid Hybrid Visualizer — pre-rendered gallery (free CPU Space).
 
-Browse SDXL predictions of the 27 famous Cattleya crosses, each rendered once on a GPU with
+Browse SDXL predictions of the 27 Cattleya crosses, each rendered once on a GPU with
 the exact shipping pipeline (SDXL base + v2 ancestry LoRA at scale 0.6, F1 depth, seed 42 —
 see render_gallery.py). Every entry shows the predicted-hybrid image, the parent species +
 percentages, and the ~77-token CLIP prompt that produced it.
@@ -62,17 +62,14 @@ _HAS_MANIFEST = os.path.exists(os.path.join(_GALLERY_DIR, "manifest.json"))
 _ENTRIES = load_manifest() if _HAS_MANIFEST else []
 
 _INTRO = (
-    "# 🌸 Cattleya Orchid Hybrid Visualizer\n\n"
-    "AI-predicted appearances of **27 famous registered Cattleya crosses**. Each image is "
-    "generated from the two parent species by a botanical phenotype engine (blending pigment "
-    "channels and dominance rules into a CLIP-optimized prompt) feeding **SDXL + a custom "
-    "orchid-ancestry LoRA**. Science backbone: real hybrids blend toward the parent midpoint "
-    "in [orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8) latent space "
-    "(validated, Stage 16/18).\n\n"
-    "**Click any image** to see its parents and the exact prompt that produced it. These are "
-    "*predictions of hypothetical appearance*, not photographs.\n\n"
-    "_Pre-rendered (seed 42, F1). A live interactive version — custom parent pairs, warm-color "
-    "control, multiple seeds — exists as `app_live.py` (needs a ZeroGPU Space / HF PRO)._"
+    "# 🌸 Cattleya hybrid visualizer\n\n"
+    "Predicted appearances of **27 registered Cattleya crosses**. A rule-based phenotype engine "
+    "blends the two parent species' traits (pigment channels and dominance rules, which are "
+    "heuristics) into a short prompt for **SDXL + a Cattleya ancestry LoRA**.\n\n"
+    "**Click any image** to see its parents and the exact prompt. Every image is a prediction, "
+    "not a photograph.\n\n"
+    "_Pre-rendered (seed 42, F1). A live version with custom parent pairs is in `app_live.py` "
+    "and needs a GPU (ZeroGPU) Space._"
 )
 
 
@@ -172,26 +169,29 @@ def on_latent_select(display: str):
 
 _ABOUT = (
     "## How it works\n\n"
-    "1. **Phenotype engine** — for a chosen cross, the two parent species' trait profiles "
-    "(pigment channels: anthocyanin / carotenoid / co-pigment, plus genetic dominance rules) "
-    "are blended at F1 depth into a ~77-token CLIP-optimized appearance description.\n"
-    "2. **SDXL + ancestry LoRA** — that prompt drives Stable Diffusion XL with a custom Cattleya "
-    "ancestry LoRA (scale 0.6) to render the predicted hybrid (seed 42).\n"
-    "3. **Validation** — every blend is checked against real hybrids in "
-    "[orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8) latent space. Real hybrids "
-    "sit near the **parent midpoint**, and the residual deviation is **transgressive** (novel "
-    "beyond both parents), not a lean toward one parent — see the **Latent map** tab. This "
-    "replicated under permutation tests and a DINOv2 backbone (Stage 16/18).\n\n"
-    "These are *predictions of hypothetical appearance*, not photographs.\n\n"
+    "1. **Phenotype engine**: the two parent species' trait profiles (pigment channels: "
+    "anthocyanin / carotenoid / co-pigment, plus dominance rules) are blended at F1 into a prompt "
+    "of about 77 tokens. The rules are heuristics.\n"
+    "2. **SDXL + ancestry LoRA**: the prompt drives Stable Diffusion XL with a Cattleya ancestry "
+    "LoRA (scale 0.6), seed 42.\n\n"
+    "## What the embeddings show\n\n"
+    "Across 1,002 registered orchid hybrids, a real hybrid's "
+    "[orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8) embedding sits closer to "
+    "its parents' midpoint than a shuffled null (cosine 0.910 vs 0.730), and this holds on DINOv2 "
+    "(0.886 vs 0.539). Hybrids also sit off the line between their parents, and further off when "
+    "the parents look more different (Spearman ρ 0.52, n = 485, permutation p < 0.001; 0.65 on "
+    "DINOv2). This is visual similarity, not genetics, and weighting the blend by the dominance "
+    "rules did not beat the plain midpoint.\n\n"
+    "The predicted images are not checked against real hybrids. Only 4 of the 27 crosses have "
+    "real hybrid photos to compare with (**Latent map** tab). Every image is a prediction, not a "
+    "photograph.\n\n"
     "## More in this orchid series\n\n"
-    "- 🔬 [orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8) — the vision backbone "
-    "(1.14M photos / 5,124 species) behind the validation here\n"
-    "- 🌱 [orchid-genus-id](https://huggingface.co/spaces/musharna/orchid-genus-id) — live genus "
-    "identification from a photo\n"
-    "- 🌸 this Space — hybrid appearance prediction\n\n"
-    "Parent reference photos are licensing-clean (CC-BY / public-domain) from a curated dataset; "
-    "per-photo credits appear with each cross. A live interactive generator (custom parent pairs, "
-    "warm-color control, multiple seeds) exists as `app_live.py` and needs a ZeroGPU Space (HF PRO)."
+    "- 🔬 [orchid-clip-v8](https://huggingface.co/musharna/orchid-clip-v8): the embedding model "
+    "behind the latent map (1.14M photos, 5,124 species)\n"
+    "- 🌱 [orchid-genus-id](https://huggingface.co/spaces/musharna/orchid-genus-id): genus "
+    "identification from a photo\n\n"
+    "Parent photos are CC BY, CC0 or public domain, except one CC BY-NC; per-photo credits appear "
+    "with each cross."
 )
 
 
@@ -237,11 +237,11 @@ with gr.Blocks(title="Orchid Hybrid Visualizer") as demo:
 
         with gr.Tab("🧬 Latent map"):
             gr.Markdown(
-                "Where each predicted hybrid lands in **orchid-clip-v8** latent space. The two "
-                "parents sit at the ends of the horizontal **chord**; the predicted F1 blend is the "
-                "**midpoint** (0,0). For crosses with real examples in the dataset, the **real "
-                "hybrid** (★) is plotted *perpendicular* to the chord — its off-chord offset is the "
-                "**transgressive residual** (validated, Stage 16/18)."
+                "Each cross in **orchid-clip-v8** embedding space. The two parents sit at the ends "
+                "of the horizontal line and the prediction is drawn at their **midpoint** (0,0); "
+                "the predicted images themselves are not embedded. For the crosses with real hybrid "
+                "photos, the **real hybrid** (★) is plotted by its position along the line and its "
+                "distance off it."
             )
             if _LATENT_DEFAULT:
                 latent_pick = gr.Dropdown(

@@ -86,7 +86,7 @@ def test_build_figure_no_plane_is_safe():
 
 def test_caption_hero_mentions_transgressive():
     cap = latentmap.caption(_HERO)
-    assert "transgressive" in cap
+    assert "off the line" in cap
     assert "77" in cap
 
 
